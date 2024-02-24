@@ -1,0 +1,2269 @@
+Version 13.22
+165 heroes detected
+Filetime 2023-11-09 12:08:32
+[1] hero_id: 1, name: 黑暗之女, title: 安妮, alias: Annie
+    skin_id: 1000, skin_name: 黑暗之女
+    skin_id: 1001, skin_name: 哥特萝莉 安妮
+    skin_id: 1002, skin_name: 小红帽 安妮
+    skin_id: 1003, skin_name: 安妮梦游仙境
+    skin_id: 1004, skin_name: 舞会公主 安妮
+    skin_id: 1005, skin_name: 冰霜烈焰 安妮
+    skin_id: 1006, skin_name: 安伯斯与提妮
+    skin_id: 1007, skin_name: 科学怪熊的新娘 安妮
+    skin_id: 1008, skin_name: “你看见过我的熊猫吗？”安妮
+    skin_id: 1009, skin_name: 甜心宝贝 安妮
+    skin_id: 1010, skin_name: 海克斯科技 安妮
+    skin_id: 1011, skin_name: 银河魔装机神 安妮
+    skin_id: 1012, skin_name: 十周年纪念 安妮
+    skin_id: 1013, skin_name: 福牛守护者 安妮
+    skin_id: 1022, skin_name: 咖啡甜心 安妮
+    skin_id: 1031, skin_name: 魔域梦魇 安妮
+    16 skins downloaded
+    pick/ban audio downloaded
+[2] hero_id: 2, name: 狂战士, title: 奥拉夫, alias: Olaf
+    skin_id: 2000, skin_name: 狂战士
+    skin_id: 2001, skin_name: 烈焰猛士 奥拉夫
+    skin_id: 2002, skin_name: 冰河时代 奥拉夫
+    skin_id: 2003, skin_name: 铁哥们儿 奥拉夫
+    skin_id: 2004, skin_name: 五杀摇滚鼓手 奥拉夫
+    skin_id: 2005, skin_name: 黑暗骑士 奥拉夫
+    skin_id: 2006, skin_name: 牛扒狂战 奥拉夫
+    skin_id: 2015, skin_name: SKT T1 奥拉夫
+    skin_id: 2016, skin_name: 屠龙勇士 奥拉夫
+    skin_id: 2025, skin_name: 光明哨兵 奥拉夫
+    skin_id: 2035, skin_name: 五杀摇滚 III：遗失的章节 奥拉夫
+    11 skins downloaded
+    pick/ban audio downloaded
+[3] hero_id: 3, name: 正义巨像, title: 加里奥, alias: Galio
+    skin_id: 3000, skin_name: 正义巨像
+    skin_id: 3001, skin_name: 幽蓝梦魇 加里奥
+    skin_id: 3002, skin_name: 机械迷城 加里奥
+    skin_id: 3003, skin_name: 战地之王 加里奥
+    skin_id: 3004, skin_name: 地狱之门卫士 加里奥
+    skin_id: 3005, skin_name: 风执事 加里奥
+    skin_id: 3006, skin_name: 鸡里奥
+    skin_id: 3013, skin_name: 地狱火 加里奥
+    skin_id: 3019, skin_name: 龙族卫士 加里奥
+    skin_id: 3028, skin_name: 剪纸仙灵 加里奥
+    10 skins downloaded
+    pick/ban audio downloaded
+[4] hero_id: 4, name: 卡牌大师, title: 崔斯特, alias: TwistedFate
+    skin_id: 4000, skin_name: 卡牌大师
+    skin_id: 4001, skin_name: 蓝色忧郁 崔斯特
+    skin_id: 4002, skin_name: 红桃杰克 崔斯特
+    skin_id: 4003, skin_name: 魔幻卡牌 崔斯特
+    skin_id: 4004, skin_name: 探戈灵魂 崔斯特
+    skin_id: 4005, skin_name: 西部牛仔 崔斯特
+    skin_id: 4006, skin_name: 皇家火枪手 崔斯特
+    skin_id: 4007, skin_name: 地底世界 崔斯特
+    skin_id: 4008, skin_name: 逆转裁判 崔斯特
+    skin_id: 4009, skin_name: 逍遥赌侠 崔斯特
+    skin_id: 4010, skin_name: 腥红之月 崔斯特
+    skin_id: 4011, skin_name: 未来战士 崔斯特
+    skin_id: 4013, skin_name: 奥德赛 崔斯特
+    skin_id: 4023, skin_name: DWG 崔斯特
+    skin_id: 4025, skin_name: 地下都市 梦魇 崔斯特
+    skin_id: 4036, skin_name: 太空律动 “万能舞王” 崔斯特
+    15 skins downloaded
+    pick/ban audio downloaded
+[5] hero_id: 5, name: 德邦总管, title: 赵信, alias: XinZhao
+    skin_id: 5000, skin_name: 德邦总管
+    skin_id: 5001, skin_name: 特战先锋 赵信
+    skin_id: 5002, skin_name: 皇家守卫 赵信
+    skin_id: 5003, skin_name: 绞肉机角斗士 赵信
+    skin_id: 5004, skin_name: 翼骑统领 赵信
+    skin_id: 5005, skin_name: 赵云 子龙
+    skin_id: 5006, skin_name: 秘密特工 赵信
+    skin_id: 5013, skin_name: 屠龙勇士 赵信
+    skin_id: 5020, skin_name: 穿星魔锋 赵信
+    skin_id: 5027, skin_name: 黑暗骑士 赵信
+    skin_id: 5036, skin_name: 猛虎下山 赵信
+    11 skins downloaded
+    pick/ban audio downloaded
+[6] hero_id: 6, name: 无畏战车, title: 厄加特, alias: Urgot
+    skin_id: 6000, skin_name: 无畏战车
+    skin_id: 6001, skin_name: 深渊巨蟹 厄加特
+    skin_id: 6002, skin_name: 电锯狂人 厄加特
+    skin_id: 6003, skin_name: 战地机甲 厄加特
+    skin_id: 6009, skin_name: 西部魔影 厄加特
+    skin_id: 6015, skin_name: 星之守护者COS 厄加特
+    skin_id: 6023, skin_name: 魔域梦魇 厄加特
+    7 skins downloaded
+    pick/ban audio downloaded
+[7] hero_id: 7, name: 诡术妖姬, title: 乐芙兰, alias: Leblanc
+    skin_id: 7000, skin_name: 诡术妖姬
+    skin_id: 7001, skin_name: 潮流女王 乐芙兰
+    skin_id: 7002, skin_name: 社会名流 乐芙兰
+    skin_id: 7003, skin_name: 幸福女神 乐芙兰
+    skin_id: 7004, skin_name: 邪鸦魅影 乐芙兰
+    skin_id: 7005, skin_name: 永恒之森 乐芙兰
+    skin_id: 7012, skin_name: 源代码 乐芙兰
+    skin_id: 7019, skin_name: iG 乐芙兰
+    skin_id: 7020, skin_name: 魔女 乐芙兰
+    skin_id: 7029, skin_name: 冠军蔷薇 乐芙兰
+    skin_id: 7033, skin_name: 至臻 魔女 乐芙兰
+    skin_id: 7035, skin_name: 幻执事 乐芙兰
+    skin_id: 7045, skin_name: 魅惑女巫 乐芙兰
+    13 skins downloaded
+    pick/ban audio downloaded
+[8] hero_id: 8, name: 猩红收割者, title: 弗拉基米尔, alias: Vladimir
+    skin_id: 8000, skin_name: 猩红收割者
+    skin_id: 8001, skin_name: 弗拉基米尔伯爵
+    skin_id: 8002, skin_name: 弗拉基米尔侯爵
+    skin_id: 8003, skin_name: 诺斯费拉图  弗拉基米尔
+    skin_id: 8004, skin_name: 霹雳游侠 弗拉基米尔
+    skin_id: 8005, skin_name: 血石领主 弗拉基米尔
+    skin_id: 8006, skin_name: 摄魂男爵 弗拉基米尔
+    skin_id: 8007, skin_name: 学生会长 弗拉基米尔
+    skin_id: 8008, skin_name: 黑潮 弗拉基米尔
+    skin_id: 8014, skin_name: 黑夜使者 弗拉基米尔
+    skin_id: 8021, skin_name: 波江星神 弗拉基米尔
+    skin_id: 8030, skin_name: 咖啡甜心 弗拉基米尔
+    skin_id: 8039, skin_name: 绝息圣堂 弗拉基米尔
+    13 skins downloaded
+    pick/ban audio downloaded
+[9] hero_id: 9, name: 远古恐惧, title: 费德提克, alias: FiddleSticks
+    skin_id: 9000, skin_name: 远古恐惧
+    skin_id: 9001, skin_name: 幽魂 费德提克
+    skin_id: 9002, skin_name: 联合王国 费德提克
+    skin_id: 9003, skin_name: 荒野幽灵 费德提克
+    skin_id: 9004, skin_name: 南瓜头 费德提克
+    skin_id: 9005, skin_name: 铁钩船长 费德提克
+    skin_id: 9006, skin_name: 惊悚派对 费德提克
+    skin_id: 9007, skin_name: 糖果使徒 费德提克
+    skin_id: 9008, skin_name: 重生之沙 费德提克
+    skin_id: 9009, skin_name: 禁卫机甲 费德提克
+    skin_id: 9027, skin_name: 星之吞噬者 费德提克
+    11 skins downloaded
+    pick/ban audio downloaded
+[10] hero_id: 10, name: 正义天使, title: 凯尔, alias: Kayle
+    skin_id: 10000, skin_name: 正义天使
+    skin_id: 10001, skin_name: 银白审判 凯尔
+    skin_id: 10002, skin_name: 末世天使 凯尔
+    skin_id: 10003, skin_name: 大天使长米迦勒 凯尔
+    skin_id: 10004, skin_name: 战场女武神 凯尔
+    skin_id: 10005, skin_name: 圣光审判 凯尔
+    skin_id: 10006, skin_name: 钢铁之翼 凯尔
+    skin_id: 10007, skin_name: 防暴天使 凯尔
+    skin_id: 10008, skin_name: 钢铁审判官 凯尔
+    skin_id: 10009, skin_name: 五杀摇滚女声主唱 凯尔
+    skin_id: 10015, skin_name: 灵能特工 凯尔
+    skin_id: 10024, skin_name: 屠龙勇士 凯尔
+    skin_id: 10033, skin_name: 五杀摇滚 III：遗失的章节 凯尔
+    skin_id: 10042, skin_name: 食日天使 凯尔
+    skin_id: 10057, skin_name: 玉剑传说 翼剑仙
+    15 skins downloaded
+    pick/ban audio downloaded
+[11] hero_id: 11, name: 无极剑圣, title: 易, alias: MasterYi
+    skin_id: 11000, skin_name: 无极剑圣
+    skin_id: 11001, skin_name: 暗影 易
+    skin_id: 11002, skin_name: 星战 易
+    skin_id: 11003, skin_name: 天人合一 易
+    skin_id: 11004, skin_name: 侍魂 易
+    skin_id: 11005, skin_name: 铁血剑豪 易
+    skin_id: 11009, skin_name: 源计划：林 易
+    skin_id: 11010, skin_name: 斩星魔剑 易
+    skin_id: 11011, skin_name: 玉剑传说 无极
+    skin_id: 11017, skin_name: 持胡萝卜的雪人 易
+    skin_id: 11024, skin_name: 腥红之月 易
+    skin_id: 11033, skin_name: 灵能特工 易
+    skin_id: 11042, skin_name: 无极执事 易
+    skin_id: 11052, skin_name: 灵魂莲华 易
+    skin_id: 11053, skin_name: 至臻 灵魂莲华 易
+    skin_id: 11089, skin_name: 墨之影武者 易
+    16 skins downloaded
+    pick/ban audio downloaded
+[12] hero_id: 12, name: 牛头酋长, title: 阿利斯塔, alias: Alistar
+    skin_id: 12000, skin_name: 牛头酋长
+    skin_id: 12001, skin_name: 暗黑灵魂 阿利斯塔
+    skin_id: 12002, skin_name: 金牛座 阿利斯塔
+    skin_id: 12003, skin_name: 斗牛士 阿利斯塔
+    skin_id: 12004, skin_name: 荒野镖客 阿利斯塔
+    skin_id: 12005, skin_name: 巨角幻兽 阿利斯塔
+    skin_id: 12006, skin_name: 地狱火 阿利斯塔
+    skin_id: 12007, skin_name: 后场堡垒 阿利斯塔
+    skin_id: 12008, skin_name: 黑暗骑士 阿利斯塔
+    skin_id: 12009, skin_name: SKT T1 阿利斯塔
+    skin_id: 12010, skin_name: 哞利斯塔
+    skin_id: 12019, skin_name: 海克斯科技 阿利斯塔
+    skin_id: 12020, skin_name: 征服者 阿利斯塔
+    skin_id: 12022, skin_name: 黯晶巨牛 阿利斯塔
+    skin_id: 12029, skin_name: 福牛守护者 阿利斯塔
+    15 skins downloaded
+    pick/ban audio downloaded
+[13] hero_id: 13, name: 符文法师, title: 瑞兹, alias: Ryze
+    skin_id: 13000, skin_name: 符文法师
+    skin_id: 13001, skin_name: 青年 瑞兹
+    skin_id: 13002, skin_name: 部落精神 瑞兹
+    skin_id: 13003, skin_name: 美国大叔 瑞兹
+    skin_id: 13004, skin_name: 守护者雕像 瑞兹
+    skin_id: 13005, skin_name: 宗师级法师训练师 瑞兹
+    skin_id: 13006, skin_name: 至死不渝 瑞兹
+    skin_id: 13007, skin_name: 恶魔男爵 瑞兹
+    skin_id: 13008, skin_name: 海贼 瑞兹
+    skin_id: 13009, skin_name: 瑞兹·白须
+    skin_id: 13010, skin_name: SKT T1 瑞兹
+    skin_id: 13011, skin_name: 冠军之志 瑞兹
+    skin_id: 13013, skin_name: 沙之守护 瑞兹
+    skin_id: 13020, skin_name: 孤勇之隐 瑞兹
+    14 skins downloaded
+    pick/ban audio downloaded
+[14] hero_id: 14, name: 亡灵战神, title: 赛恩, alias: Sion
+    skin_id: 14000, skin_name: 亡灵战神
+    skin_id: 14001, skin_name: 钢铁终结者 赛恩
+    skin_id: 14002, skin_name: 武仙座海格力斯 赛恩
+    skin_id: 14003, skin_name: 原野伐木工 赛恩
+    skin_id: 14004, skin_name: 战争机器 赛恩
+    skin_id: 14005, skin_name: 霸天零式 赛恩
+    skin_id: 14014, skin_name: 创世之神 赛恩
+    skin_id: 14022, skin_name: 黯晶战神 赛恩
+    skin_id: 14030, skin_name: 西部魔影 合成天使 赛恩
+    skin_id: 14040, skin_name: 星界圣骑 赛恩
+    10 skins downloaded
+    pick/ban audio downloaded
+[15] hero_id: 15, name: 战争女神, title: 希维尔, alias: Sivir
+    skin_id: 15000, skin_name: 战争女神
+    skin_id: 15001, skin_name: 战场公主 希维尔
+    skin_id: 15002, skin_name: 亮丽女神 希维尔
+    skin_id: 15003, skin_name: 女猎手 希维尔
+    skin_id: 15004, skin_name: 钢铁之心 希维尔
+    skin_id: 15005, skin_name: 创战纪 希维尔
+    skin_id: 15006, skin_name: 冰雪风暴 希维尔
+    skin_id: 15007, skin_name: 光明骑士 希维尔
+    skin_id: 15008, skin_name: 胜利女神 希维尔
+    skin_id: 15009, skin_name: 新创战纪 希维尔
+    skin_id: 15010, skin_name: 送披萨的小姐姐 希维尔
+    skin_id: 15016, skin_name: 腥红之月 希维尔
+    skin_id: 15025, skin_name: 奥德赛 希维尔
+    skin_id: 15034, skin_name: 咖啡甜心 希维尔
+    skin_id: 15043, skin_name: 日蚀骑士 希维尔
+    skin_id: 15050, skin_name: 剪纸仙灵 希维尔
+    skin_id: 15051, skin_name: 至臻 剪纸仙灵 希维尔
+    17 skins downloaded
+    pick/ban audio downloaded
+[16] hero_id: 16, name: 众星之子, title: 索拉卡, alias: Soraka
+    skin_id: 16000, skin_name: 众星之子
+    skin_id: 16001, skin_name: 森林女神 索拉卡
+    skin_id: 16002, skin_name: 月光女神阿忒弥斯 索拉卡
+    skin_id: 16003, skin_name: 圣洁化身 索拉卡
+    skin_id: 16004, skin_name: 灵魂收割者 索拉卡
+    skin_id: 16005, skin_name: 蕉泥座人 索拉卡
+    skin_id: 16006, skin_name: 源代码 索拉卡
+    skin_id: 16007, skin_name: 星之守护者 索拉卡
+    skin_id: 16008, skin_name: 睡衣守护者 索拉卡
+    skin_id: 16009, skin_name: 冬境仙灵 索拉卡
+    skin_id: 16015, skin_name: 黎明使者 索拉卡
+    skin_id: 16016, skin_name: 黑夜使者 索拉卡
+    skin_id: 16017, skin_name: 至臻 星之守护者 索拉卡
+    skin_id: 16018, skin_name: 咖啡甜心 索拉卡
+    skin_id: 16027, skin_name: 灵魂莲华 索拉卡
+    skin_id: 16037, skin_name: 玉剑传说 星仙子
+    16 skins downloaded
+    pick/ban audio downloaded
+[17] hero_id: 17, name: 迅捷斥候, title: 提莫, alias: Teemo
+    skin_id: 17000, skin_name: 迅捷斥候
+    skin_id: 17001, skin_name: 圣诞开心鬼 提莫
+    skin_id: 17002, skin_name: 军情五处 提莫
+    skin_id: 17003, skin_name: 密林猎手 提莫
+    skin_id: 17004, skin_name: 提莫:"约德尔人的一大步"
+    skin_id: 17005, skin_name: 兔宝宝 提莫
+    skin_id: 17006, skin_name: 约德尔国队长 提莫
+    skin_id: 17007, skin_name: 熊猫 提莫
+    skin_id: 17008, skin_name: 欧米伽小队 幽灵特工
+    skin_id: 17014, skin_name: 大魔王 提莫
+    skin_id: 17018, skin_name: 小蜜蜂 提莫
+    skin_id: 17025, skin_name: 灵魂莲华 提莫
+    skin_id: 17027, skin_name: 至臻 灵魂莲华 提莫
+    skin_id: 17037, skin_name: 招财进宝 提莫
+    skin_id: 17047, skin_name: 太空律动 “律动队长” 提莫
+    14 skins downloaded
+    pick/ban audio downloaded
+[18] hero_id: 18, name: 麦林炮手, title: 崔丝塔娜, alias: Tristana
+    skin_id: 18000, skin_name: 麦林炮手
+    skin_id: 18001, skin_name: 粉色萝莉 崔丝塔娜
+    skin_id: 18002, skin_name: 圣诞精灵 崔丝塔娜 
+    skin_id: 18003, skin_name: 烈焰雄心 崔丝塔娜
+    skin_id: 18004, skin_name: 游击队员 崔丝塔娜
+    skin_id: 18005, skin_name: 约德尔海贼团 崔丝塔娜
+    skin_id: 18006, skin_name: 火箭达人 崔丝塔娜
+    skin_id: 18010, skin_name: 驯龙炮手 崔丝塔娜
+    skin_id: 18011, skin_name: 魅惑女巫 崔丝塔娜
+    skin_id: 18012, skin_name: 欧米伽小队 魔鬼伞兵
+    skin_id: 18024, skin_name: 小恶魔 崔丝塔娜
+    skin_id: 18033, skin_name: 我，羽饰骑士 崔丝塔娜
+    skin_id: 18040, skin_name: 海克斯科技 崔丝塔娜
+    skin_id: 18041, skin_name: 虎头虎脑 崔丝塔娜
+    skin_id: 18051, skin_name: 灵魂莲华 崔丝塔娜
+    15 skins downloaded
+    pick/ban audio downloaded
+[19] hero_id: 19, name: 祖安怒兽, title: 沃里克, alias: Warwick
+    skin_id: 19000, skin_name: 祖安怒兽
+    skin_id: 19001, skin_name: 暗影 沃里克
+    skin_id: 19002, skin_name: 披着海牛的狼 沃里克
+    skin_id: 19003, skin_name: 狼外婆 沃里克
+    skin_id: 19004, skin_name: 冻原猎手 沃里克
+    skin_id: 19005, skin_name: 嗜血狂暴 沃里克
+    skin_id: 19006, skin_name: 火牙狼人 沃里克
+    skin_id: 19007, skin_name: 荒野豺狼 沃里克
+    skin_id: 19008, skin_name: 黑暗骑士 沃里克
+    skin_id: 19009, skin_name: 海牛狼人 沃里克
+    skin_id: 19010, skin_name: 南天之怒 沃里克 
+    skin_id: 19016, skin_name: 源计划：末日 沃里克
+    skin_id: 19035, skin_name: 古神 沃里克
+    skin_id: 19045, skin_name: 北极星使者 沃里克
+    skin_id: 19046, skin_name: 至臻 北极星使者 沃里克
+    15 skins downloaded
+    pick/ban audio downloaded
+[20] hero_id: 20, name: 雪原双子, title: 努努和威朗普, alias: Nunu
+    skin_id: 20000, skin_name: 雪原双子
+    skin_id: 20001, skin_name: 荒野巨兽 努努和威朗普
+    skin_id: 20002, skin_name: 圣诞狂欢 努努和威朗普
+    skin_id: 20003, skin_name: 脏兮兮 努努和威朗普
+    skin_id: 20004, skin_name: 合金巨兽 努努和威朗普
+    skin_id: 20005, skin_name: 攻城巨兽 努努和威朗普
+    skin_id: 20006, skin_name: 暗杀星 努努和威朗普
+    skin_id: 20007, skin_name: 丧尸 努努和威朗普
+    skin_id: 20008, skin_name: 千纸双子 努努和威朗普
+    skin_id: 20016, skin_name: 太空律动 “舞林双子” 努努和威朗普
+    skin_id: 20026, skin_name: 小蜜蜂 努努和威朗普
+    skin_id: 20035, skin_name: 星界圣骑双子 努努和威朗普
+    12 skins downloaded
+    pick/ban audio downloaded
+[21] hero_id: 21, name: 赏金猎人, title: 厄运小姐, alias: MissFortune
+    skin_id: 21000, skin_name: 赏金猎人
+    skin_id: 21001, skin_name: 西部牛仔 厄运小姐
+    skin_id: 21002, skin_name: 法国皇室 厄运小姐
+    skin_id: 21003, skin_name: 特工狂花 厄运小姐
+    skin_id: 21004, skin_name: 圣诞糖果棒 厄运小姐
+    skin_id: 21005, skin_name: 荒野女警 厄运小姐
+    skin_id: 21006, skin_name: 黑帮狂花 厄运小姐
+    skin_id: 21007, skin_name: 电玩女神 厄运小姐
+    skin_id: 21008, skin_name: 女船长 厄运小姐
+    skin_id: 21009, skin_name: 泳池派对 厄运小姐
+    skin_id: 21015, skin_name: 星之守护者 厄运小姐
+    skin_id: 21016, skin_name: 武装战姬 厄运小姐
+    skin_id: 21017, skin_name: 睡衣守护者 厄运小姐
+    skin_id: 21018, skin_name: 魅惑女巫 厄运小姐
+    skin_id: 21020, skin_name: 至臻 魅惑女巫 厄运小姐
+    skin_id: 21021, skin_name: 破败军团 厄运小姐
+    skin_id: 21031, skin_name: 幻灵战斗队长 厄运小姐
+    skin_id: 21033, skin_name: 至臻 魅惑女巫 厄运小姐 (2022)
+    skin_id: 21040, skin_name: 绝息圣堂 厄运小姐
+    skin_id: 21041, skin_name: 至臻 绝息圣堂 厄运小姐
+    20 skins downloaded
+    pick/ban audio downloaded
+[22] hero_id: 22, name: 寒冰射手, title: 艾希, alias: Ashe
+    skin_id: 22000, skin_name: 寒冰射手
+    skin_id: 22001, skin_name: 极地女神 艾希
+    skin_id: 22002, skin_name: 丛林侠盗 艾希
+    skin_id: 22003, skin_name: 勇敢的心 艾希
+    skin_id: 22004, skin_name: 女皇 艾希
+    skin_id: 22005, skin_name: 紫晶射手 艾希
+    skin_id: 22006, skin_name: 觅心女王 艾希
+    skin_id: 22007, skin_name: 黑暗骑士 艾希
+    skin_id: 22008, skin_name: 源计划：联合 艾希
+    skin_id: 22009, skin_name: 冠军之箭 艾希
+    skin_id: 22011, skin_name: 御星魔矢 艾希
+    skin_id: 22017, skin_name: 西部天使 艾希
+    skin_id: 22023, skin_name: 神龙尊者 苍龙艾希
+    skin_id: 22032, skin_name: 魔女 艾希
+    skin_id: 22043, skin_name: 海之歌 艾希
+    skin_id: 22052, skin_name: 春晖神女 艾希
+    skin_id: 22063, skin_name: DRX 艾希
+    17 skins downloaded
+    pick/ban audio downloaded
+[23] hero_id: 23, name: 蛮族之王, title: 泰达米尔, alias: Tryndamere
+    skin_id: 23000, skin_name: 蛮族之王
+    skin_id: 23001, skin_name: 勇敢的心 泰达米尔
+    skin_id: 23002, skin_name: 国王 泰达米尔
+    skin_id: 23003, skin_name: 诸神的黄昏 泰达米尔
+    skin_id: 23004, skin_name: 恶魔之刃 泰达米尔
+    skin_id: 23005, skin_name: 奥斯曼大帝 泰达米尔
+    skin_id: 23006, skin_name: 关羽 云长
+    skin_id: 23007, skin_name: 梦魇 泰达米尔
+    skin_id: 23008, skin_name: 野兽猎人 泰达米尔
+    skin_id: 23009, skin_name: 生化领主 泰达米尔
+    skin_id: 23010, skin_name: 腥红之月 泰达米尔
+    skin_id: 23018, skin_name: 黑夜使者 泰达米尔
+    12 skins downloaded
+    pick/ban audio downloaded
+[24] hero_id: 24, name: 武器大师, title: 贾克斯, alias: Jax
+    skin_id: 24000, skin_name: 武器大师
+    skin_id: 24001, skin_name: 冰球队员 贾克斯
+    skin_id: 24002, skin_name: 万夫莫开 贾克斯
+    skin_id: 24003, skin_name: 宗师级钓鱼训练师 贾克斯
+    skin_id: 24004, skin_name: 卧虎藏龙 贾克斯
+    skin_id: 24005, skin_name: 百夫长 贾克斯
+    skin_id: 24006, skin_name: 少林武僧 贾克斯
+    skin_id: 24007, skin_name: 复仇武神 贾克斯
+    skin_id: 24008, skin_name: SKT T1 贾克斯
+    skin_id: 24012, skin_name: 光明骑士 贾克斯
+    skin_id: 24013, skin_name: 武神 贾克斯
+    skin_id: 24014, skin_name: 王国机神白虎 贾克斯
+    skin_id: 24020, skin_name: 征服者 贾克斯
+    skin_id: 24021, skin_name: 至臻 征服者 贾克斯
+    skin_id: 24022, skin_name: 至高天 贾克斯
+    skin_id: 24032, skin_name: 新卧虎藏龙 贾克斯
+    16 skins downloaded
+    pick/ban audio downloaded
+[25] hero_id: 25, name: 堕落天使, title: 莫甘娜, alias: Morgana
+    skin_id: 25000, skin_name: 堕落天使
+    skin_id: 25001, skin_name: 杀戮天使昔拉 莫甘娜
+    skin_id: 25002, skin_name: 地狱厨房 莫甘娜
+    skin_id: 25003, skin_name: 刀锋女王 莫甘娜
+    skin_id: 25004, skin_name: 黑色荆棘 莫甘娜
+    skin_id: 25005, skin_name: 鬼魂新娘 莫甘娜
+    skin_id: 25006, skin_name: 胜利女神 莫甘娜
+    skin_id: 25010, skin_name: 紫金罗刹 莫甘娜
+    skin_id: 25011, skin_name: 魅惑女巫 莫甘娜
+    skin_id: 25017, skin_name: 玉剑传说 苍鸾
+    skin_id: 25026, skin_name: 至尊魔女 莫甘娜
+    skin_id: 25039, skin_name: 黎明使者 莫甘娜
+    skin_id: 25041, skin_name: 至臻 魅惑女巫 莫甘娜
+    skin_id: 25050, skin_name: 星之吞噬者 莫甘娜
+    skin_id: 25060, skin_name: 净雪之月 莫甘娜
+    15 skins downloaded
+    pick/ban audio downloaded
+[26] hero_id: 26, name: 时光守护者, title: 基兰, alias: Zilean
+    skin_id: 26000, skin_name: 时光守护者
+    skin_id: 26001, skin_name: 圣诞狂欢 基兰
+    skin_id: 26002, skin_name: 嘻哈精神 基兰
+    skin_id: 26003, skin_name: 遗迹守护者 基兰
+    skin_id: 26004, skin_name: 时间机器 基兰
+    skin_id: 26005, skin_name: 腥红之月 基兰
+    skin_id: 26006, skin_name: 糖果大战 基兰
+    skin_id: 26014, skin_name: 北极星圣贤 基兰
+    8 skins downloaded
+    pick/ban audio downloaded
+[27] hero_id: 27, name: 炼金术士, title: 辛吉德, alias: Singed
+    skin_id: 27000, skin_name: 炼金术士
+    skin_id: 27001, skin_name: 防暴士兵 辛吉德
+    skin_id: 27002, skin_name: 机械污染 辛吉德
+    skin_id: 27003, skin_name: 冲浪高手 辛吉德
+    skin_id: 27004, skin_name: 科学狂人 辛吉德
+    skin_id: 27005, skin_name: 炼金狂士 辛吉德
+    skin_id: 27006, skin_name: 冰雪节 辛吉德
+    skin_id: 27007, skin_name: SSW 辛吉德
+    skin_id: 27008, skin_name: 黑色天灾 辛吉德
+    skin_id: 27009, skin_name: 养蜂人 辛吉德
+    skin_id: 27010, skin_name: 抵抗军绿魔 辛吉德
+    skin_id: 27019, skin_name: 宇航员 辛吉德
+    12 skins downloaded
+    pick/ban audio downloaded
+[28] hero_id: 28, name: 痛苦之拥, title: 伊芙琳, alias: Evelynn
+    skin_id: 28000, skin_name: 痛苦之拥
+    skin_id: 28001, skin_name: 黑暗女王 伊芙琳
+    skin_id: 28002, skin_name: 假面女皇 伊芙琳
+    skin_id: 28003, skin_name: 探戈灵魂 伊芙琳
+    skin_id: 28004, skin_name: 惊天魔盗 伊芙琳
+    skin_id: 28005, skin_name: 腥红之月 伊芙琳
+    skin_id: 28006, skin_name: K/DA 伊芙琳
+    skin_id: 28007, skin_name: 至臻 K/DA 伊芙琳
+    skin_id: 28008, skin_name: 糖果大战 伊芙琳
+    skin_id: 28015, skin_name: K/DA ALL OUT 伊芙琳
+    skin_id: 28024, skin_name: 魔女 伊芙琳
+    skin_id: 28031, skin_name: 至臻 K/DA 伊芙琳 (2022)
+    skin_id: 28032, skin_name: 灵魂莲华 伊芙琳
+    skin_id: 28042, skin_name: 斗魂觉醒 伊芙琳
+    14 skins downloaded
+    pick/ban audio downloaded
+[29] hero_id: 29, name: 瘟疫之源, title: 图奇, alias: Twitch
+    skin_id: 29000, skin_name: 瘟疫之源
+    skin_id: 29001, skin_name: 首领 图奇
+    skin_id: 29002, skin_name: 北风冻原 图奇
+    skin_id: 29003, skin_name: 都铎王朝 图奇
+    skin_id: 29004, skin_name: 黑金诱惑 图奇
+    skin_id: 29005, skin_name: 横行霸道 图奇
+    skin_id: 29006, skin_name: 绝影神偷 图奇
+    skin_id: 29007, skin_name: SSW 图奇
+    skin_id: 29008, skin_name: 欧米伽小队 毒针狙击手
+    skin_id: 29012, skin_name: 狂心冰王 图奇
+    skin_id: 29027, skin_name: 图奇 · 影足
+    skin_id: 29036, skin_name: 屠龙勇士 图奇
+    skin_id: 29045, skin_name: 西部魔影 送葬人 图奇
+    13 skins downloaded
+    pick/ban audio downloaded
+[30] hero_id: 30, name: 死亡颂唱者, title: 卡尔萨斯, alias: Karthus
+    skin_id: 30000, skin_name: 死亡颂唱者
+    skin_id: 30001, skin_name: 幽灵幻影 卡尔萨斯
+    skin_id: 30002, skin_name: 自由女神 卡尔萨斯
+    skin_id: 30003, skin_name: 死神 卡尔萨斯
+    skin_id: 30004, skin_name: 五杀摇滚主唱 卡尔萨斯
+    skin_id: 30005, skin_name: Fnatic 卡尔萨斯
+    skin_id: 30009, skin_name: 卡尔萨斯·祸害之光
+    skin_id: 30010, skin_name: 地狱火 卡尔萨斯
+    skin_id: 30017, skin_name: 五杀摇滚 III：遗失的章节 卡尔萨斯
+    skin_id: 30026, skin_name: 永恒之森 卡尔萨斯
+    10 skins downloaded
+    pick/ban audio downloaded
+[31] hero_id: 31, name: 虚空恐惧, title: 科加斯, alias: Chogath
+    skin_id: 31000, skin_name: 虚空恐惧
+    skin_id: 31001, skin_name: 梦魇 科加斯
+    skin_id: 31002, skin_name: 绅士 科加斯
+    skin_id: 31003, skin_name: 尼斯巨兽 科加斯
+    skin_id: 31004, skin_name: 侏罗纪化石 科加斯
+    skin_id: 31005, skin_name: 战地巨兽 科加斯
+    skin_id: 31006, skin_name: 暴龙 科加斯
+    skin_id: 31007, skin_name: 暗星 科加斯
+    skin_id: 31014, skin_name: 山海绘卷 科加斯
+    skin_id: 31023, skin_name: 绝息圣堂 科加斯
+    10 skins downloaded
+    pick/ban audio downloaded
+[32] hero_id: 32, name: 殇之木乃伊, title: 阿木木, alias: Amumu
+    skin_id: 32000, skin_name: 殇之木乃伊
+    skin_id: 32001, skin_name: 法老 阿木木
+    skin_id: 32002, skin_name: 狂欢 阿木木
+    skin_id: 32003, skin_name: 情绪摇滚 阿木木
+    skin_id: 32004, skin_name: 阿木木:“主人不要我了”
+    skin_id: 32005, skin_name: 王子不是我 阿木木
+    skin_id: 32006, skin_name: 小小骑士 阿木木
+    skin_id: 32007, skin_name: 殇之机器人 阿木木
+    skin_id: 32008, skin_name: 惊悚派对 阿木木
+    skin_id: 32017, skin_name: 地狱火 阿木木
+    skin_id: 32023, skin_name: 海克斯科技 阿木木
+    skin_id: 32024, skin_name: 南瓜头王子 阿木木
+    skin_id: 32034, skin_name: 青花瓷 阿木木
+    skin_id: 32044, skin_name: 黯然心伤 阿木木
+    14 skins downloaded
+    pick/ban audio downloaded
+[33] hero_id: 33, name: 披甲龙龟, title: 拉莫斯, alias: Rammus
+    skin_id: 33000, skin_name: 披甲龙龟
+    skin_id: 33001, skin_name: 国王 拉莫斯
+    skin_id: 33002, skin_name: 铬金铠甲 拉莫斯
+    skin_id: 33003, skin_name: 熔火之心 拉莫斯
+    skin_id: 33004, skin_name: 极度深寒 拉莫斯
+    skin_id: 33005, skin_name: 忍龟 拉莫斯
+    skin_id: 33006, skin_name: 全金属狂潮 拉莫斯
+    skin_id: 33007, skin_name: 沙之守护 拉莫斯
+    skin_id: 33008, skin_name: 制胜金球 拉莫斯
+    skin_id: 33016, skin_name: 海克斯科技 拉莫斯
+    skin_id: 33017, skin_name: 宇航员 拉莫斯
+    11 skins downloaded
+    pick/ban audio downloaded
+[34] hero_id: 34, name: 冰晶凤凰, title: 艾尼维亚, alias: Anivia
+    skin_id: 34000, skin_name: 冰晶凤凰
+    skin_id: 34001, skin_name: 双重冰晶 艾尼维亚
+    skin_id: 34002, skin_name: 联盟之喙 艾尼维亚
+    skin_id: 34003, skin_name: 重甲猎鹰 艾尼维亚
+    skin_id: 34004, skin_name: 钢铁之翼 艾尼维亚
+    skin_id: 34005, skin_name: 黯晶凤凰 艾尼维亚
+    skin_id: 34006, skin_name: 翼龙 艾尼维亚
+    skin_id: 34007, skin_name: 庆典女皇 艾尼维亚
+    skin_id: 34008, skin_name: 千纸凤凰 艾尼维亚
+    skin_id: 34017, skin_name: 凤凰星神 艾尼维亚
+    skin_id: 34027, skin_name: 神凰行者 瑞羽圣凰 艾尼维亚
+    skin_id: 34037, skin_name: 魅惑女巫 艾尼维亚
+    skin_id: 34046, skin_name: 胜利凤凰 艾尼维亚
+    13 skins downloaded
+    pick/ban audio downloaded
+[35] hero_id: 35, name: 恶魔小丑, title: 萨科, alias: Shaco
+    skin_id: 35000, skin_name: 恶魔小丑
+    skin_id: 35001, skin_name: 恐怖之源 萨科
+    skin_id: 35002, skin_name: 贵族血统 萨科
+    skin_id: 35003, skin_name: 胡桃夹子 萨科
+    skin_id: 35004, skin_name: 小丑工作坊 萨科
+    skin_id: 35005, skin_name: 飞越疯人院 萨科
+    skin_id: 35006, skin_name: 武动巅峰 萨科
+    skin_id: 35007, skin_name: 万能小丑 萨科
+    skin_id: 35008, skin_name: 暗星 萨科
+    skin_id: 35015, skin_name: 奥术师 萨科
+    skin_id: 35023, skin_name: 地下都市 梦魇 萨科
+    skin_id: 35033, skin_name: 北极星使者 萨科
+    skin_id: 35043, skin_name: 斗魂觉醒 萨科
+    skin_id: 35044, skin_name: 至臻 斗魂觉醒 萨科
+    14 skins downloaded
+    pick/ban audio downloaded
+[36] hero_id: 36, name: 祖安狂人, title: 蒙多医生, alias: DrMundo
+    skin_id: 36000, skin_name: 祖安狂人
+    skin_id: 36001, skin_name: 战栗之毒 蒙多
+    skin_id: 36002, skin_name: 健美教练 蒙多
+    skin_id: 36003, skin_name: 律政大亨 蒙多
+    skin_id: 36004, skin_name: 蒙多蒙多
+    skin_id: 36005, skin_name: 嗜血行刑 蒙多
+    skin_id: 36006, skin_name: 战争血统 蒙多
+    skin_id: 36007, skin_name: 暗杀星 蒙多
+    skin_id: 36008, skin_name: 泳池派对 蒙多
+    skin_id: 36009, skin_name: 硬汉 蒙多
+    skin_id: 36010, skin_name: 冰封王子 蒙多
+    skin_id: 36021, skin_name: 妖怪艺术家 蒙多医生
+    12 skins downloaded
+    pick/ban audio downloaded
+[37] hero_id: 37, name: 琴瑟仙女, title: 娑娜, alias: Sona
+    skin_id: 37000, skin_name: 琴瑟仙女
+    skin_id: 37001, skin_name: 缪斯女神 娑娜
+    skin_id: 37002, skin_name: 五杀摇滚键盘手 娑娜
+    skin_id: 37003, skin_name: 平安夜女神 娑娜
+    skin_id: 37004, skin_name: 古琴余韵 娑娜
+    skin_id: 37005, skin_name: 电玩女神 娑娜
+    skin_id: 37006, skin_name: DJ 娑娜
+    skin_id: 37007, skin_name: 甜心宝贝 娑娜
+    skin_id: 37009, skin_name: 奥德赛 娑娜
+    skin_id: 37017, skin_name: 灵能特工 娑娜
+    skin_id: 37026, skin_name: 五杀摇滚 III：遗失的章节 娑娜
+    skin_id: 37035, skin_name: 星之守护者 娑娜
+    skin_id: 37045, skin_name: 玉剑传说 琴仙子
+    skin_id: 37046, skin_name: 至臻 玉剑传说 琴仙子
+    14 skins downloaded
+    pick/ban audio downloaded
+[38] hero_id: 38, name: 虚空行者, title: 卡萨丁, alias: Kassadin
+    skin_id: 38000, skin_name: 虚空行者
+    skin_id: 38001, skin_name: 寒冰王座 卡萨丁
+    skin_id: 38002, skin_name: 深海一号 卡萨丁
+    skin_id: 38003, skin_name: 虚空前世 卡萨丁
+    skin_id: 38004, skin_name: 先驱行者 卡萨丁
+    skin_id: 38005, skin_name: 掠星魔刃 卡萨丁
+    skin_id: 38006, skin_name: 伯爵 卡萨丁
+    skin_id: 38014, skin_name: 海克斯科技 卡萨丁
+    skin_id: 38015, skin_name: 冲击之刃 卡萨丁
+    9 skins downloaded
+    pick/ban audio downloaded
+[39] hero_id: 39, name: 刀锋舞者, title: 艾瑞莉娅, alias: Irelia
+    skin_id: 39000, skin_name: 刀锋舞者
+    skin_id: 39001, skin_name: 夜刃 艾瑞莉娅
+    skin_id: 39002, skin_name: 凌云之翼 艾瑞莉娅
+    skin_id: 39003, skin_name: 夜行义贼 艾瑞莉娅
+    skin_id: 39004, skin_name: 冰霜之刃 艾瑞莉娅
+    skin_id: 39005, skin_name: 莲花之令 艾瑞莉娅
+    skin_id: 39006, skin_name: 玉剑传说 舞剑仙
+    skin_id: 39015, skin_name: iG 艾瑞莉娅
+    skin_id: 39016, skin_name: 源计划：正义 艾瑞莉娅
+    skin_id: 39017, skin_name: 至臻 源计划：正义 艾瑞莉娅
+    skin_id: 39018, skin_name: 西部天使 艾瑞莉娅
+    skin_id: 39026, skin_name: 光明哨兵 艾瑞莉娅
+    skin_id: 39036, skin_name: 至臻 源计划：正义 艾瑞莉娅 (2022)
+    skin_id: 39037, skin_name: 剪纸仙灵 艾瑞莉娅
+    14 skins downloaded
+    pick/ban audio downloaded
+[40] hero_id: 40, name: 风暴之怒, title: 迦娜, alias: Janna
+    skin_id: 40000, skin_name: 风暴之怒
+    skin_id: 40001, skin_name: 暴风女神 迦娜
+    skin_id: 40002, skin_name: 海克斯科技 迦娜
+    skin_id: 40003, skin_name: 寒冰女皇 迦娜
+    skin_id: 40004, skin_name: 胜利女神 迦娜
+    skin_id: 40005, skin_name: 女主播 迦娜
+    skin_id: 40006, skin_name: Fnatic 迦娜
+    skin_id: 40007, skin_name: 星之守护者 迦娜
+    skin_id: 40008, skin_name: 玉剑传说 风仙子
+    skin_id: 40013, skin_name: 魅惑女巫 迦娜
+    skin_id: 40020, skin_name: 沙之守护 迦娜
+    skin_id: 40027, skin_name: 女帝 迦娜
+    skin_id: 40036, skin_name: 水晶玫瑰 迦娜
+    skin_id: 40045, skin_name: 海珀利安小队 X09-星环灵风 迦娜
+    skin_id: 40046, skin_name: 至臻 海珀利安小队 X09-星环灵风 迦娜
+    15 skins downloaded
+    pick/ban audio downloaded
+[41] hero_id: 41, name: 海洋之灾, title: 普朗克, alias: Gangplank
+    skin_id: 41000, skin_name: 海洋之灾
+    skin_id: 41001, skin_name: 幽灵船长 普朗克
+    skin_id: 41002, skin_name: 老兵 普朗克
+    skin_id: 41003, skin_name: 大力水手 普朗克
+    skin_id: 41004, skin_name: 英勇玩具兵 普朗克
+    skin_id: 41005, skin_name: 特种部队 普朗克
+    skin_id: 41006, skin_name: 奥斯曼大帝 普朗克
+    skin_id: 41007, skin_name: 昔日霸主 普朗克
+    skin_id: 41008, skin_name: 恐惧新星 普朗克
+    skin_id: 41014, skin_name: 泳池派对 普朗克
+    skin_id: 41021, skin_name: FPX 普朗克
+    skin_id: 41023, skin_name: 背叛之刃 普朗克
+    12 skins downloaded
+    pick/ban audio downloaded
+[42] hero_id: 42, name: 英勇投弹手, title: 库奇, alias: Corki
+    skin_id: 42000, skin_name: 英勇投弹手
+    skin_id: 42001, skin_name: 外星装甲 库奇
+    skin_id: 42002, skin_name: 雪橇速滑 库奇
+    skin_id: 42003, skin_name: 红色男爵 库奇
+    skin_id: 42004, skin_name: 急速前进 库奇
+    skin_id: 42005, skin_name: 海牛骑手  库奇
+    skin_id: 42006, skin_name: 神龙之翼 库奇
+    skin_id: 42007, skin_name: Fnatic 库奇
+    skin_id: 42008, skin_name: 电玩上校 库奇
+    skin_id: 42018, skin_name: 柯基 库奇
+    skin_id: 42026, skin_name: 宇航员 库奇
+    11 skins downloaded
+    pick/ban audio downloaded
+[43] hero_id: 43, name: 天启者, title: 卡尔玛, alias: Karma
+    skin_id: 43000, skin_name: 天启者
+    skin_id: 43001, skin_name: 日冕女神 卡尔玛
+    skin_id: 43002, skin_name: 樱花乱舞 卡尔玛
+    skin_id: 43003, skin_name: 传统服饰 卡尔玛
+    skin_id: 43004, skin_name: 莲花之令 卡尔玛
+    skin_id: 43005, skin_name: 光明骑士 卡尔玛
+    skin_id: 43006, skin_name: 冬季仙境 卡尔玛
+    skin_id: 43007, skin_name: 征服者 卡尔玛
+    skin_id: 43008, skin_name: 暗星 卡尔玛
+    skin_id: 43019, skin_name: 黎明使者 卡尔玛
+    skin_id: 43026, skin_name: 奥德赛 卡尔玛
+    skin_id: 43027, skin_name: 破败军团 卡尔玛
+    skin_id: 43044, skin_name: 神龙尊者 宁静之龙 卡尔玛
+    skin_id: 43054, skin_name: 花仙女王 卡尔玛
+    14 skins downloaded
+    pick/ban audio downloaded
+[44] hero_id: 44, name: 瓦洛兰之盾, title: 塔里克, alias: Taric
+    skin_id: 44000, skin_name: 瓦洛兰之盾
+    skin_id: 44001, skin_name: 绿水晶光辉 塔里克
+    skin_id: 44002, skin_name: 紫水晶意志 塔里克
+    skin_id: 44003, skin_name: 血石诅咒 塔里克
+    skin_id: 44004, skin_name: 泳池派对 塔里克
+    skin_id: 44009, skin_name: 塔里克 · 辉盾
+    skin_id: 44018, skin_name: 太空律动 “爱乐之子” 塔里克
+    6 skins downloaded
+    pick/ban audio downloaded
+[45] hero_id: 45, name: 邪恶小法师, title: 维迦, alias: Veigar
+    skin_id: 45000, skin_name: 邪恶小法师
+    skin_id: 45001, skin_name: 白魔法师 维迦
+    skin_id: 45002, skin_name: 冰壶选手 维迦
+    skin_id: 45003, skin_name: 灰胡子魔法师 维迦
+    skin_id: 45004, skin_name: 绿野仙踪 维迦
+    skin_id: 45005, skin_name: 魔导绅士 维迦
+    skin_id: 45006, skin_name: 穿着正装的恶魔 维迦
+    skin_id: 45007, skin_name: 邪恶圣诞老人 维迦
+    skin_id: 45008, skin_name: 最终BOSS 维迦
+    skin_id: 45009, skin_name: 欧米伽小队 天雷爆破手
+    skin_id: 45013, skin_name: 永恒之森 维迦
+    skin_id: 45023, skin_name: 我，怒角 维迦
+    skin_id: 45032, skin_name: 宇航员 维迦
+    skin_id: 45041, skin_name: 小怪兽训练师 维迦
+    14 skins downloaded
+    pick/ban audio downloaded
+[46] hero_id: 48, name: 巨魔之王, title: 特朗德尔, alias: Trundle
+    skin_id: 48000, skin_name: 巨魔之王
+    skin_id: 48001, skin_name: 里尔击球手  特朗德尔
+    skin_id: 48002, skin_name: 垃圾场  特朗德尔
+    skin_id: 48003, skin_name: 传统造型 特朗德尔
+    skin_id: 48004, skin_name: 巡逻警官 特朗德尔
+    skin_id: 48005, skin_name: 创世之神 特朗德尔
+    skin_id: 48006, skin_name: 屠龙勇士 特朗德尔
+    skin_id: 48012, skin_name: 魔域梦魇 特朗德尔
+    8 skins downloaded
+    pick/ban audio downloaded
+[47] hero_id: 50, name: 诺克萨斯统领, title: 斯维因, alias: Swain
+    skin_id: 50000, skin_name: 诺克萨斯统领
+    skin_id: 50001, skin_name: 北领前线 斯维因
+    skin_id: 50002, skin_name: 海贼参谋 斯维因
+    skin_id: 50003, skin_name: 绝代智将 斯维因
+    skin_id: 50004, skin_name: 驯龙大师 斯维因
+    skin_id: 50011, skin_name: 海克斯科技 斯维因
+    skin_id: 50012, skin_name: 水晶玫瑰 斯维因
+    skin_id: 50021, skin_name: 北极星猎人 斯维因
+    8 skins downloaded
+    pick/ban audio downloaded
+[48] hero_id: 51, name: 皮城女警, title: 凯特琳, alias: Caitlyn
+    skin_id: 51000, skin_name: 皮城女警
+    skin_id: 51001, skin_name: 抵抗军天使 凯特琳
+    skin_id: 51002, skin_name: 荒野治安官 凯特琳
+    skin_id: 51003, skin_name: 古墓丽影 凯特琳
+    skin_id: 51004, skin_name: 冰原狙击 凯特琳
+    skin_id: 51005, skin_name: 女警狙击 凯特琳
+    skin_id: 51006, skin_name: 铁血狙击手 凯特琳
+    skin_id: 51010, skin_name: 玉净夜叉 凯特琳
+    skin_id: 51011, skin_name: 未来战士 凯特琳
+    skin_id: 51013, skin_name: 泳池派对 凯特琳
+    skin_id: 51019, skin_name: 电玩女神 凯特琳
+    skin_id: 51020, skin_name: 至臻 电玩女神 凯特琳
+    skin_id: 51022, skin_name: 战斗学院 凯特琳
+    skin_id: 51028, skin_name: 双城之战 凯特琳
+    skin_id: 51029, skin_name: 至臻 电玩女神 凯特琳 (2022)
+    skin_id: 51030, skin_name: 净雪之月 凯特琳
+    skin_id: 51039, skin_name: 怦然心动 凯特琳
+    skin_id: 51048, skin_name: DRX 凯特琳
+    18 skins downloaded
+    pick/ban audio downloaded
+[49] hero_id: 53, name: 蒸汽机器人, title: 布里茨, alias: Blitzcrank
+    skin_id: 53000, skin_name: 蒸汽机器人
+    skin_id: 53001, skin_name: 铁锈斑斑 布里茨
+    skin_id: 53002, skin_name: 钢铁之门 布里茨
+    skin_id: 53003, skin_name: 擂台皇帝 布里茨
+    skin_id: 53004, skin_name: 陆地王者4WD 布里茨
+    skin_id: 53005, skin_name: 戴一个表 布里茨
+    skin_id: 53006, skin_name: 苹果机器人 布里茨
+    skin_id: 53007, skin_name: 防暴机器人 布里茨
+    skin_id: 53011, skin_name: 战场BOSS 布里茨
+    skin_id: 53020, skin_name: 暮色枪骑 布里茨
+    skin_id: 53021, skin_name: 银白枪骑 布里茨
+    skin_id: 53022, skin_name: 大魔法锅 布里茨
+    skin_id: 53029, skin_name: 太空律动 “猫猫” 布里和里茨
+    skin_id: 53036, skin_name: 胜利机器人 布里茨
+    skin_id: 53047, skin_name: 巅峰之星 布里茨
+    15 skins downloaded
+    pick/ban audio downloaded
+[50] hero_id: 54, name: 熔岩巨兽, title: 墨菲特, alias: Malphite
+    skin_id: 54000, skin_name: 熔岩巨兽
+    skin_id: 54001, skin_name: 三叶草 墨菲特
+    skin_id: 54002, skin_name: 珊瑚礁 墨菲特
+    skin_id: 54003, skin_name: 石破天惊 墨菲特
+    skin_id: 54004, skin_name: 黑曜石守护者 墨菲特
+    skin_id: 54005, skin_name: 冰川巨兽 墨菲特
+    skin_id: 54006, skin_name: 霸天巨兽 墨菲特
+    skin_id: 54007, skin_name: 无畏号 墨菲特
+    skin_id: 54016, skin_name: 奥德赛 墨菲特
+    skin_id: 54023, skin_name: 暗星 墨菲特
+    skin_id: 54024, skin_name: 至臻 暗星 墨菲特
+    skin_id: 54025, skin_name: FPX 墨菲特
+    skin_id: 54027, skin_name: 古神 墨菲特
+    skin_id: 54037, skin_name: 春晖山神 墨菲特
+    14 skins downloaded
+    pick/ban audio downloaded
+[51] hero_id: 55, name: 不祥之刃, title: 卡特琳娜, alias: Katarina
+    skin_id: 55000, skin_name: 不祥之刃
+    skin_id: 55001, skin_name: 赏金猎人 卡特琳娜
+    skin_id: 55002, skin_name: 红牌！退场！ 卡特琳娜
+    skin_id: 55003, skin_name: 海贼魅影 卡特琳娜
+    skin_id: 55004, skin_name: 暗夜猫女 卡特琳娜
+    skin_id: 55005, skin_name: 前线指挥官 卡特琳娜
+    skin_id: 55006, skin_name: 沙漠风暴 卡特琳娜
+    skin_id: 55007, skin_name: 夺命美人 卡特琳娜
+    skin_id: 55008, skin_name: 闭月之颜 貂蝉
+    skin_id: 55009, skin_name: 源计划：雄心 卡特琳娜
+    skin_id: 55010, skin_name: 死亡誓约 卡特琳娜
+    skin_id: 55012, skin_name: 战斗学院 卡特琳娜
+    skin_id: 55021, skin_name: 腥红之月 卡特琳娜
+    skin_id: 55029, skin_name: 女帝 卡特琳娜
+    skin_id: 55037, skin_name: 西部魔影 执行人 卡特琳娜
+    skin_id: 55047, skin_name: 花仙使者 卡特琳娜
+    skin_id: 55048, skin_name: 至臻 花仙使者 卡特琳娜
+    17 skins downloaded
+    pick/ban audio downloaded
+[52] hero_id: 56, name: 永恒梦魇, title: 魔腾, alias: Nocturne
+    skin_id: 56000, skin_name: 永恒梦魇
+    skin_id: 56001, skin_name: 蓝焰梦魔 魔腾
+    skin_id: 56002, skin_name: 幻影梦魔 魔腾
+    skin_id: 56003, skin_name: 劫掠梦魇 魔腾
+    skin_id: 56004, skin_name: 鬼影重重 魔腾
+    skin_id: 56005, skin_name: 上古战魂 魔腾
+    skin_id: 56006, skin_name: 恶咒亡魂 魔腾
+    skin_id: 56007, skin_name: 古神 魔腾
+    skin_id: 56016, skin_name: 海克斯科技 魔腾
+    skin_id: 56017, skin_name: 绝息圣堂 魔腾
+    10 skins downloaded
+    pick/ban audio downloaded
+[53] hero_id: 57, name: 扭曲树精, title: 茂凯, alias: Maokai
+    skin_id: 57000, skin_name: 扭曲树精
+    skin_id: 57001, skin_name: 烈焰古树 茂凯
+    skin_id: 57002, skin_name: 图腾古树 茂凯
+    skin_id: 57003, skin_name: 喜庆之树 茂凯
+    skin_id: 57004, skin_name: 鬼影森森 茂凯
+    skin_id: 57005, skin_name: 绿茵门神 茂凯
+    skin_id: 57006, skin_name: 喵凯
+    skin_id: 57007, skin_name: 胜利之树 茂凯
+    skin_id: 57016, skin_name: 创世之神 茂凯
+    skin_id: 57024, skin_name: 宇航员 茂凯
+    skin_id: 57033, skin_name: DRX 茂凯
+    11 skins downloaded
+    pick/ban audio downloaded
+[54] hero_id: 58, name: 荒漠屠夫, title: 雷克顿, alias: Renekton
+    skin_id: 58000, skin_name: 荒漠屠夫
+    skin_id: 58001, skin_name: 星河战队 雷克顿
+    skin_id: 58002, skin_name: 荒野之咬 雷克顿
+    skin_id: 58003, skin_name: 血石战神 雷克顿
+    skin_id: 58004, skin_name: 符文战神 雷克顿
+    skin_id: 58005, skin_name: 枯萎之壤 雷克顿
+    skin_id: 58006, skin_name: 泳池派对 雷克顿
+    skin_id: 58007, skin_name: 猛龙 雷克顿
+    skin_id: 58008, skin_name: SKT T1 雷克顿
+    skin_id: 58009, skin_name: 鳄霸 雷克顿
+    skin_id: 58017, skin_name: 海克斯科技 雷克顿
+    skin_id: 58018, skin_name: 黯晶巨鳄 雷克顿
+    skin_id: 58026, skin_name: 源计划：泯灭 雷克顿
+    skin_id: 58033, skin_name: 黎明使者 雷克顿
+    skin_id: 58042, skin_name: 2023 全球总决赛 雷克顿
+    15 skins downloaded
+    pick/ban audio downloaded
+[55] hero_id: 59, name: 德玛西亚皇子, title: 嘉文四世, alias: JarvanIV
+    skin_id: 59000, skin_name: 德玛西亚皇子
+    skin_id: 59001, skin_name: 孤胆英豪 嘉文四世
+    skin_id: 59002, skin_name: 屠龙勇士 嘉文四世
+    skin_id: 59003, skin_name: 龙骑统帅 嘉文四世
+    skin_id: 59004, skin_name: 凯旋英雄 嘉文四世
+    skin_id: 59005, skin_name: 吕布 奉先
+    skin_id: 59006, skin_name: Fnatic 嘉文四世
+    skin_id: 59007, skin_name: 暗星 嘉文四世
+    skin_id: 59008, skin_name: SSG 嘉文四世
+    skin_id: 59009, skin_name: 海克斯科技 嘉文四世
+    skin_id: 59011, skin_name: 泳池派对 嘉文四世
+    skin_id: 59021, skin_name: 福牛守护者 嘉文四世
+    skin_id: 59030, skin_name: 2021 全球总决赛 嘉文四世
+    skin_id: 59035, skin_name: 黑夜使者 嘉文四世
+    14 skins downloaded
+    pick/ban audio downloaded
+[56] hero_id: 60, name: 蜘蛛女皇, title: 伊莉丝, alias: Elise
+    skin_id: 60000, skin_name: 蜘蛛女皇
+    skin_id: 60001, skin_name: 死亡绽放 伊莉丝
+    skin_id: 60002, skin_name: 胜利女神 伊莉丝
+    skin_id: 60003, skin_name: 腥红之月 伊莉丝
+    skin_id: 60004, skin_name: SKT T1 伊莉丝
+    skin_id: 60005, skin_name: 银河魔装机神 伊莉丝
+    skin_id: 60006, skin_name: 魅惑女巫 伊莉丝
+    skin_id: 60015, skin_name: 幽梦玫瑰 伊莉丝
+    skin_id: 60024, skin_name: 魔女 伊莉丝
+    9 skins downloaded
+    pick/ban audio downloaded
+[57] hero_id: 61, name: 发条魔灵, title: 奥莉安娜, alias: Orianna
+    skin_id: 61000, skin_name: 发条魔灵
+    skin_id: 61001, skin_name: 哥特女仆 奥莉安娜
+    skin_id: 61002, skin_name: 恶灵布偶 奥莉安娜
+    skin_id: 61003, skin_name: 灵骨工匠 奥莉安娜
+    skin_id: 61004, skin_name: 暗杀星 奥莉安娜
+    skin_id: 61005, skin_name: 冬季仙境 奥莉安娜
+    skin_id: 61006, skin_name: 觅心魔灵 奥莉安娜
+    skin_id: 61007, skin_name: 暗星 奥莉安娜
+    skin_id: 61008, skin_name: 胜利女神 奥莉安娜
+    skin_id: 61011, skin_name: 泳池派对 奥莉安娜
+    skin_id: 61020, skin_name: 小蜜蜂 奥莉安娜
+    skin_id: 61029, skin_name: 星之守护者 奥莉安娜
+    12 skins downloaded
+    pick/ban audio downloaded
+[58] hero_id: 62, name: 齐天大圣, title: 孙悟空, alias: MonkeyKing
+    skin_id: 62000, skin_name: 齐天大圣
+    skin_id: 62001, skin_name: 三昧真火 孙悟空
+    skin_id: 62002, skin_name: 斗战胜佛 孙悟空
+    skin_id: 62003, skin_name: 定海神珍 孙悟空
+    skin_id: 62004, skin_name: 地狱行者 孙悟空
+    skin_id: 62005, skin_name: 美猴王 孙悟空
+    skin_id: 62006, skin_name: 破空枪骑 孙悟空
+    skin_id: 62007, skin_name: 战斗学院 孙悟空
+    skin_id: 62016, skin_name: 永恒之森 孙悟空
+    9 skins downloaded
+    pick/ban audio downloaded
+[59] hero_id: 63, name: 复仇焰魂, title: 布兰德, alias: Brand
+    skin_id: 63000, skin_name: 复仇焰魂
+    skin_id: 63001, skin_name: 末日余生 布兰德
+    skin_id: 63002, skin_name: V字仇杀者 布兰德
+    skin_id: 63003, skin_name: 冰晶之核 布兰德
+    skin_id: 63004, skin_name: 丧尸 布兰德
+    skin_id: 63005, skin_name: 灵魂烈焰 布兰德
+    skin_id: 63006, skin_name: 战场BOSS 布兰德
+    skin_id: 63007, skin_name: 苍穹之光 布兰德
+    skin_id: 63008, skin_name: 神龙尊者 魔龙布兰德
+    skin_id: 63021, skin_name: 焰执事 布兰德
+    skin_id: 63022, skin_name: 至臻 焰执事 布兰德
+    skin_id: 63033, skin_name: 妖怪艺术家 布兰德
+    12 skins downloaded
+    pick/ban audio downloaded
+[60] hero_id: 64, name: 盲僧, title: 李青, alias: LeeSin
+    skin_id: 64000, skin_name: 盲僧
+    skin_id: 64001, skin_name: 传统僧侣 李青
+    skin_id: 64002, skin_name: 防弹武僧 李青
+    skin_id: 64003, skin_name: 龙的传人 李青
+    skin_id: 64004, skin_name: 至高之拳 李青
+    skin_id: 64005, skin_name: 泳池派对 李青
+    skin_id: 64006, skin_name: SKT T1 李青
+    skin_id: 64010, skin_name: 地下拳王 李青
+    skin_id: 64011, skin_name: 神拳 李青
+    skin_id: 64012, skin_name: 制胜金靴 李青
+    skin_id: 64027, skin_name: 黑夜使者 李青
+    skin_id: 64028, skin_name: 至臻 黑夜使者 李青
+    skin_id: 64029, skin_name: FPX 李青
+    skin_id: 64031, skin_name: 神龙尊者 圣龙李青
+    skin_id: 64039, skin_name: 至臻 黑夜使者 李青 (2022)
+    skin_id: 64041, skin_name: 巅峰之星 李青
+    16 skins downloaded
+    pick/ban audio downloaded
+[61] hero_id: 67, name: 暗夜猎手, title: 薇恩, alias: Vayne
+    skin_id: 67000, skin_name: 暗夜猎手
+    skin_id: 67001, skin_name: 摩登骇客 薇恩
+    skin_id: 67002, skin_name: 猎天使魔女 薇恩
+    skin_id: 67003, skin_name: 屠龙勇士 薇恩
+    skin_id: 67004, skin_name: 觅心猎手 薇恩
+    skin_id: 67005, skin_name: SKT T1 薇恩
+    skin_id: 67006, skin_name: 苍穹之光 薇恩
+    skin_id: 67010, skin_name: 摄魂使者 薇恩
+    skin_id: 67011, skin_name: 源计划：净化 薇恩
+    skin_id: 67012, skin_name: 烈焰美人 薇恩
+    skin_id: 67013, skin_name: 至臻 烈焰美人 薇恩
+    skin_id: 67014, skin_name: 灵魂莲华 薇恩
+    skin_id: 67015, skin_name: FPX 薇恩
+    skin_id: 67025, skin_name: 光明哨兵 薇恩
+    skin_id: 67032, skin_name: 幻灵战斗蝠 薇恩
+    skin_id: 67033, skin_name: 至臻 烈焰美人 薇恩 (2022)
+    skin_id: 67044, skin_name: 黎明使者 薇恩
+    17 skins downloaded
+    pick/ban audio downloaded
+[62] hero_id: 68, name: 机械公敌, title: 兰博, alias: Rumble
+    skin_id: 68000, skin_name: 机械公敌
+    skin_id: 68001, skin_name: 热带丛林 兰博
+    skin_id: 68002, skin_name: 独眼海盗 兰博
+    skin_id: 68003, skin_name: 银河魔装机神 兰博
+    skin_id: 68004, skin_name: 废土男爵 兰博
+    skin_id: 68013, skin_name: 太空律动 “串烧大师” 兰博
+    skin_id: 68023, skin_name: 咖啡甜心 兰博
+    7 skins downloaded
+    pick/ban audio downloaded
+[63] hero_id: 69, name: 魔蛇之拥, title: 卡西奥佩娅, alias: Cassiopeia
+    skin_id: 69000, skin_name: 魔蛇之拥
+    skin_id: 69001, skin_name: 荒漠之咬 卡西奥佩娅
+    skin_id: 69002, skin_name: 深海妖姬 卡西奥佩娅
+    skin_id: 69003, skin_name: 蛇发女妖 卡西奥佩娅
+    skin_id: 69004, skin_name: 碧玉之牙 卡西奥佩娅
+    skin_id: 69008, skin_name: 上古魔蛇 卡西奥佩娅
+    skin_id: 69009, skin_name: 灵魂莲华 卡西奥佩娅
+    skin_id: 69018, skin_name: 魔女 卡西奥佩娅
+    skin_id: 69028, skin_name: 魅惑女巫 卡西奥佩娅
+    9 skins downloaded
+    pick/ban audio downloaded
+[64] hero_id: 72, name: 水晶先锋, title: 斯卡纳, alias: Skarner
+    skin_id: 72000, skin_name: 水晶先锋
+    skin_id: 72001, skin_name: 沙暴巨蝎 斯卡纳
+    skin_id: 72002, skin_name: 远土之灵 斯卡纳
+    skin_id: 72003, skin_name: 战地机甲 斯卡纳
+    skin_id: 72004, skin_name: 沙之守护 斯卡纳
+    skin_id: 72005, skin_name: 天蝎星神 斯卡纳
+    6 skins downloaded
+    pick/ban audio downloaded
+[65] hero_id: 74, name: 大发明家, title: 黑默丁格, alias: Heimerdinger
+    skin_id: 74000, skin_name: 大发明家
+    skin_id: 74001, skin_name: 第三类接触 黑默丁格
+    skin_id: 74002, skin_name: 拆弹专家 黑默丁格
+    skin_id: 74003, skin_name: 创意工坊 黑默丁格
+    skin_id: 74004, skin_name: 雪默丁格
+    skin_id: 74005, skin_name: 生化博士 黑默丁格
+    skin_id: 74006, skin_name: 驯龙学者 黑默丁格
+    skin_id: 74015, skin_name: 泳池派对 黑默丁格
+    skin_id: 74024, skin_name: 小蜜蜂 黑默丁格
+    9 skins downloaded
+    pick/ban audio downloaded
+[66] hero_id: 75, name: 沙漠死神, title: 内瑟斯, alias: Nasus
+    skin_id: 75000, skin_name: 沙漠死神
+    skin_id: 75001, skin_name: 星空之门 内瑟斯
+    skin_id: 75002, skin_name: 法老王朝 内瑟斯
+    skin_id: 75003, skin_name: 死亡骑士 内瑟斯
+    skin_id: 75004, skin_name: 警用试作体K-9 内瑟斯
+    skin_id: 75005, skin_name: 炼狱魔犬 内瑟斯
+    skin_id: 75006, skin_name: 单身贵族 内瑟斯
+    skin_id: 75010, skin_name: 创世之神 内瑟斯
+    skin_id: 75011, skin_name: 北辰之威 内瑟斯
+    skin_id: 75016, skin_name: 战地机甲 内瑟斯
+    skin_id: 75025, skin_name: 太空律动 “狗头” 内瑟斯
+    skin_id: 75035, skin_name: 海珀利安小队 S02-阿努比斯 内瑟斯
+    skin_id: 75045, skin_name: 黑夜使者 内瑟斯
+    13 skins downloaded
+    pick/ban audio downloaded
+[67] hero_id: 76, name: 狂野女猎手, title: 奈德丽, alias: Nidalee
+    skin_id: 76000, skin_name: 狂野女猎手
+    skin_id: 76001, skin_name: 雪装 奈德丽
+    skin_id: 76002, skin_name: 丛林猎豹 奈德丽
+    skin_id: 76003, skin_name: 法国女仆 奈德丽
+    skin_id: 76004, skin_name: 艳后 奈德丽
+    skin_id: 76005, skin_name: 魅惑女巫 奈德丽
+    skin_id: 76006, skin_name: 铁血猎手 奈德丽
+    skin_id: 76007, skin_name: 枭姬 孙尚香
+    skin_id: 76008, skin_name: 勇者 奈德丽
+    skin_id: 76009, skin_name: 银河魔装机神 奈德丽
+    skin_id: 76011, skin_name: 黎明使者 奈德丽
+    skin_id: 76018, skin_name: 狮子星神 奈德丽
+    skin_id: 76027, skin_name: DWG 奈德丽
+    skin_id: 76029, skin_name: 海之歌 奈德丽
+    skin_id: 76039, skin_name: 喵大力
+    skin_id: 76048, skin_name: 灵之菊 奈德丽
+    16 skins downloaded
+    pick/ban audio downloaded
+[68] hero_id: 77, name: 兽灵行者, title: 乌迪尔, alias: Udyr
+    skin_id: 77000, skin_name: 兽灵行者
+    skin_id: 77001, skin_name: 武力全开 乌迪尔
+    skin_id: 77002, skin_name: 四神之力 乌迪尔
+    skin_id: 77003, skin_name: 灵魂守卫 乌迪尔
+    skin_id: 77004, skin_name: 这货不是乌迪尔
+    skin_id: 77005, skin_name: 龙神之力 乌迪尔
+    skin_id: 77006, skin_name: 墨影行者 乌迪尔
+    7 skins downloaded
+    pick/ban audio downloaded
+[69] hero_id: 78, name: 圣锤之毅, title: 波比, alias: Poppy
+    skin_id: 78000, skin_name: 圣锤之毅
+    skin_id: 78001, skin_name: 诺克萨斯 波比
+    skin_id: 78002, skin_name: 波比的巧克力工坊
+    skin_id: 78003, skin_name: 宗师级锻造训练师
+    skin_id: 78004, skin_name: 圣诞玩偶 波比
+    skin_id: 78005, skin_name: 军神战甲 波比
+    skin_id: 78006, skin_name: 血色之锤 波比
+    skin_id: 78007, skin_name: 星之守护者 波比
+    skin_id: 78014, skin_name: 冰雪驯鹿 波比
+    skin_id: 78015, skin_name: 海克斯科技 波比
+    skin_id: 78016, skin_name: 宇航员 波比
+    skin_id: 78024, skin_name: 魅惑女巫 波比
+    skin_id: 78033, skin_name: 咖啡甜心 波比
+    13 skins downloaded
+    pick/ban audio downloaded
+[70] hero_id: 79, name: 酒桶, title: 古拉加斯, alias: Gragas
+    skin_id: 79000, skin_name: 酒桶
+    skin_id: 79001, skin_name: 深潜蛙人 古拉加斯
+    skin_id: 79002, skin_name: 乡村农夫 古拉加斯
+    skin_id: 79003, skin_name: 圣诞老人 古拉加斯
+    skin_id: 79004, skin_name: 品酒大师 古拉加斯
+    skin_id: 79005, skin_name: 飞车暴走族 古拉加斯
+    skin_id: 79006, skin_name: 美酒节特使 古拉加斯
+    skin_id: 79007, skin_name: 狂热球迷 古拉加斯
+    skin_id: 79008, skin_name: Fnatic 古拉加斯
+    skin_id: 79009, skin_name: 古拉加斯·碎桶者
+    skin_id: 79010, skin_name: 冰原核弹 古拉加斯
+    skin_id: 79011, skin_name: 光明骑士 古拉加斯
+    skin_id: 79020, skin_name: 太空律动 “电音酒桶” 古拉加斯
+    12 skins downloaded
+    pick/ban audio downloaded
+[71] hero_id: 80, name: 不屈之枪, title: 潘森, alias: Pantheon
+    skin_id: 80000, skin_name: 不屈之枪
+    skin_id: 80001, skin_name: 斯巴达之魂 潘森
+    skin_id: 80002, skin_name: 万人敌 潘森
+    skin_id: 80003, skin_name: 英仙座珀尔修斯 潘森
+    skin_id: 80004, skin_name: 钢铁意志 潘森
+    skin_id: 80005, skin_name: 大夏武士 潘森
+    skin_id: 80006, skin_name: 屠龙勇士 潘森
+    skin_id: 80007, skin_name: 丧尸杀手 潘森
+    skin_id: 80008, skin_name: 面包之王 潘森
+    skin_id: 80016, skin_name: 未来战士 潘森
+    skin_id: 80025, skin_name: 破败军团 潘森
+    skin_id: 80026, skin_name: 至臻 飞升战神 潘森
+    skin_id: 80036, skin_name: 灰烬征服者 潘森
+    13 skins downloaded
+    pick/ban audio downloaded
+[72] hero_id: 81, name: 探险家, title: 伊泽瑞尔, alias: Ezreal
+    skin_id: 81000, skin_name: 探险家
+    skin_id: 81001, skin_name: 冒险精神 伊泽瑞尔
+    skin_id: 81002, skin_name: 足球先生 伊泽瑞尔
+    skin_id: 81003, skin_name: 冰川勇者 伊泽瑞尔
+    skin_id: 81004, skin_name: 失落的世界 伊泽瑞尔
+    skin_id: 81005, skin_name: 未来战士 伊泽瑞尔
+    skin_id: 81006, skin_name: 暗杀星 伊泽瑞尔
+    skin_id: 81007, skin_name: 光执事 伊泽瑞尔
+    skin_id: 81008, skin_name: 黑桃皇牌 伊泽瑞尔
+    skin_id: 81009, skin_name: 电玩勇者 伊泽瑞尔
+    skin_id: 81018, skin_name: 星之守护者 伊泽瑞尔
+    skin_id: 81019, skin_name: SSG 伊泽瑞尔
+    skin_id: 81020, skin_name: 睡衣守护者 伊泽瑞尔
+    skin_id: 81021, skin_name: 战斗学院 伊泽瑞尔
+    skin_id: 81022, skin_name: 灵能特工 伊泽瑞尔
+    skin_id: 81023, skin_name: 至臻 灵能特工 伊泽瑞尔
+    skin_id: 81025, skin_name: 青花瓷 伊泽瑞尔
+    skin_id: 81033, skin_name: 花仙贵族 伊泽瑞尔
+    skin_id: 81043, skin_name: 心之钢 伊泽瑞尔
+    19 skins downloaded
+    pick/ban audio downloaded
+[73] hero_id: 82, name: 铁铠冥魂, title: 莫德凯撒, alias: Mordekaiser
+    skin_id: 82000, skin_name: 铁铠冥魂
+    skin_id: 82001, skin_name: 龙骑士 莫德凯撒
+    skin_id: 82002, skin_name: 地狱火 莫德凯撒
+    skin_id: 82003, skin_name: 五杀摇滚吉他手  莫德凯撒
+    skin_id: 82004, skin_name: 死亡领主 莫德凯撒
+    skin_id: 82005, skin_name: 梅花国王 莫德凯撒
+    skin_id: 82006, skin_name: 暗星 莫德凯撒
+    skin_id: 82013, skin_name: 源计划：超体 莫德凯撒
+    skin_id: 82023, skin_name: 五杀摇滚 III：遗失的章节 莫德凯撒
+    skin_id: 82032, skin_name: 西部魔影 地狱列车长 莫德凯撒
+    skin_id: 82042, skin_name: 灰烬骑士 莫德凯撒
+    skin_id: 82044, skin_name: 古神 莫德凯撒
+    11 skins downloaded
+    pick/ban audio downloaded
+[74] hero_id: 83, name: 牧魂人, title: 约里克, alias: Yorick
+    skin_id: 83000, skin_name: 牧魂人
+    skin_id: 83001, skin_name: 地狱送葬 约里克
+    skin_id: 83002, skin_name: 五杀摇滚贝斯手 约里克
+    skin_id: 83003, skin_name: 苍穹之光 约里克
+    skin_id: 83004, skin_name: 喵里克
+    skin_id: 83012, skin_name: 抵抗军灵魔 约里克
+    skin_id: 83021, skin_name: 五杀摇滚 III：遗失的章节 约里克
+    skin_id: 83030, skin_name: 灵魂莲华 约里克
+    8 skins downloaded
+    pick/ban audio downloaded
+[75] hero_id: 84, name: 离群之刺, title: 阿卡丽, alias: Akali
+    skin_id: 84000, skin_name: 离群之刺
+    skin_id: 84001, skin_name: 蜂刺 阿卡丽
+    skin_id: 84002, skin_name: 奈落之炎 阿卡丽
+    skin_id: 84003, skin_name: 足球宝贝 阿卡丽
+    skin_id: 84004, skin_name: 实习护士 阿卡丽
+    skin_id: 84005, skin_name: 腥红之月 鬼武姬 阿卡丽
+    skin_id: 84006, skin_name: 银色之牙 阿卡丽
+    skin_id: 84007, skin_name: 铁血女忍 阿卡丽
+    skin_id: 84008, skin_name: 刺身之拳 阿卡丽
+    skin_id: 84009, skin_name: K/DA 阿卡丽
+    skin_id: 84013, skin_name: 至臻 K/DA 阿卡丽
+    skin_id: 84014, skin_name: 源计划：暗影 阿卡丽
+    skin_id: 84015, skin_name: 真实伤害 阿卡丽
+    skin_id: 84032, skin_name: K/DA ALL OUT 阿卡丽
+    skin_id: 84050, skin_name: 地下都市 梦魇 阿卡丽
+    skin_id: 84060, skin_name: 至臻 K/DA 阿卡丽 (2022)
+    skin_id: 84061, skin_name: 星之守护者 阿卡丽
+    skin_id: 84068, skin_name: DRX 阿卡丽
+    skin_id: 84070, skin_name: 魔女 阿卡丽
+    skin_id: 84071, skin_name: 至臻 魔女 阿卡丽
+    20 skins downloaded
+    pick/ban audio downloaded
+[76] hero_id: 85, name: 狂暴之心, title: 凯南, alias: Kennen
+    skin_id: 85000, skin_name: 狂暴之心
+    skin_id: 85001, skin_name: 红色彗星 凯南
+    skin_id: 85002, skin_name: 银色闪电 凯南
+    skin_id: 85003, skin_name: 空手道 凯南
+    skin_id: 85004, skin_name: 医学博士 凯南
+    skin_id: 85005, skin_name: 刺客信条 凯南
+    skin_id: 85006, skin_name: 腥红之月 凯南
+    skin_id: 85007, skin_name: 超级英雄 凯南
+    skin_id: 85008, skin_name: 奈落之炎 凯南
+    skin_id: 85023, skin_name: DWG 凯南
+    skin_id: 85025, skin_name: 宇航员 凯南
+    11 skins downloaded
+    pick/ban audio downloaded
+[77] hero_id: 86, name: 德玛西亚之力, title: 盖伦, alias: Garen
+    skin_id: 86000, skin_name: 德玛西亚之力
+    skin_id: 86001, skin_name: 战神阿瑞斯 盖伦
+    skin_id: 86002, skin_name: 黄金骑士 盖伦
+    skin_id: 86003, skin_name: 铁甲雄心 盖伦
+    skin_id: 86004, skin_name: 死亡骑士 盖伦
+    skin_id: 86005, skin_name: 孤高游侠 盖伦
+    skin_id: 86006, skin_name: 钢铁军团 盖伦
+    skin_id: 86010, skin_name: 海上霸主 盖伦
+    skin_id: 86011, skin_name: 张辽 文远
+    skin_id: 86013, skin_name: 神王 盖伦
+    skin_id: 86014, skin_name: 德玛西亚警官 盖伦
+    skin_id: 86022, skin_name: 王国机神玄武 盖伦
+    skin_id: 86023, skin_name: 至臻 王国机神玄武 盖伦
+    skin_id: 86024, skin_name: 战斗学院 盖伦
+    skin_id: 86033, skin_name: 剪纸仙灵 盖伦
+    15 skins downloaded
+    pick/ban audio downloaded
+[78] hero_id: 89, name: 曙光女神, title: 蕾欧娜, alias: Leona
+    skin_id: 89000, skin_name: 曙光女神
+    skin_id: 89001, skin_name: 瓦尔基里 蕾欧娜
+    skin_id: 89002, skin_name: 神圣守卫 蕾欧娜
+    skin_id: 89003, skin_name: 钢铁烈阳 蕾欧娜
+    skin_id: 89004, skin_name: 泳池派对 蕾欧娜
+    skin_id: 89008, skin_name: 源计划：山 蕾欧娜
+    skin_id: 89009, skin_name: 烧烤女神 蕾欧娜
+    skin_id: 89010, skin_name: 日蚀骑士 蕾欧娜
+    skin_id: 89011, skin_name: 月蚀骑士 蕾欧娜
+    skin_id: 89012, skin_name: 王国机神朱雀 蕾欧娜
+    skin_id: 89021, skin_name: 战斗学院 蕾欧娜
+    skin_id: 89022, skin_name: DWG 蕾欧娜
+    skin_id: 89023, skin_name: 至臻 战斗学院 蕾欧娜
+    skin_id: 89033, skin_name: 烈阳执事 蕾欧娜
+    skin_id: 89034, skin_name: 西部魔影 大小姐 蕾欧娜
+    skin_id: 89050, skin_name: 水晶圣骑 蕾欧娜
+    16 skins downloaded
+    pick/ban audio downloaded
+[79] hero_id: 90, name: 虚空先知, title: 玛尔扎哈, alias: Malzahar
+    skin_id: 90000, skin_name: 虚空先知
+    skin_id: 90001, skin_name: 元老议会 玛尔扎哈
+    skin_id: 90002, skin_name: 暗影王子 玛尔扎哈
+    skin_id: 90003, skin_name: 魔灵 玛尔扎哈
+    skin_id: 90004, skin_name: 至高君王 玛尔扎哈
+    skin_id: 90005, skin_name: 冰雪节 玛尔扎哈
+    skin_id: 90006, skin_name: 战场BOSS 玛尔扎哈
+    skin_id: 90007, skin_name: 海克斯科技 玛尔扎哈
+    skin_id: 90009, skin_name: 创世之神 玛尔扎哈
+    skin_id: 90018, skin_name: 小蜜蜂 玛尔扎哈
+    skin_id: 90028, skin_name: 虚空执事 玛尔扎哈
+    skin_id: 90038, skin_name: 荣誉使者 玛尔扎哈
+    12 skins downloaded
+    pick/ban audio downloaded
+[80] hero_id: 91, name: 刀锋之影, title: 泰隆, alias: Talon
+    skin_id: 91000, skin_name: 刀锋之影
+    skin_id: 91001, skin_name: 刺客信条 泰隆
+    skin_id: 91002, skin_name: 血色精锐 泰隆
+    skin_id: 91003, skin_name: 银龙裁决 泰隆
+    skin_id: 91004, skin_name: SSW 泰隆
+    skin_id: 91005, skin_name: 腥红之月 泰隆
+    skin_id: 91012, skin_name: 玉剑传说 无影
+    skin_id: 91020, skin_name: 泰隆 · 黑木
+    skin_id: 91029, skin_name: 幽梦玫瑰 泰隆
+    skin_id: 91038, skin_name: 西部魔影 猎天使恶魔 泰隆
+    skin_id: 91039, skin_name: 至臻 西部魔影 猎天使恶魔 泰隆
+    11 skins downloaded
+    pick/ban audio downloaded
+[81] hero_id: 92, name: 放逐之刃, title: 锐雯, alias: Riven
+    skin_id: 92000, skin_name: 放逐之刃
+    skin_id: 92001, skin_name: 刺客信条 锐雯
+    skin_id: 92002, skin_name: 血色精锐 锐雯
+    skin_id: 92003, skin_name: 兔女郎 锐雯
+    skin_id: 92004, skin_name: 冠军之刃 锐雯
+    skin_id: 92005, skin_name: 替父从军 花木兰
+    skin_id: 92006, skin_name: 电玩勇者 锐雯
+    skin_id: 92007, skin_name: 冠军之刃 锐雯 2016
+    skin_id: 92016, skin_name: 黎明使者 锐雯
+    skin_id: 92018, skin_name: 未来战士 锐雯
+    skin_id: 92020, skin_name: 玉剑传说 武剑仙
+    skin_id: 92022, skin_name: 至臻 玉剑传说 武剑仙
+    skin_id: 92023, skin_name: 灵魂莲华 锐雯
+    skin_id: 92034, skin_name: 光明哨兵 锐雯
+    skin_id: 92044, skin_name: 幻灵战斗兔 锐雯
+    skin_id: 92045, skin_name: 至臻 玉剑传说 武剑仙 (2022)
+    skin_id: 92055, skin_name: 绝息圣堂 锐雯
+    17 skins downloaded
+    pick/ban audio downloaded
+[82] hero_id: 96, name: 深渊巨口, title: 克格莫, alias: KogMaw
+    skin_id: 96000, skin_name: 深渊巨口
+    skin_id: 96001, skin_name: 毛毛虫 克格莫
+    skin_id: 96002, skin_name: 索诺拉沙虫 克格莫
+    skin_id: 96003, skin_name: 帝王斑蝶 克格莫
+    skin_id: 96004, skin_name: 圣诞驯鹿 克格莫
+    skin_id: 96005, skin_name: 醒狮 克格莫
+    skin_id: 96006, skin_name: 深海怪鱼 克格莫
+    skin_id: 96007, skin_name: 侏罗纪化石 克格莫
+    skin_id: 96008, skin_name: 战地机甲 克格莫
+    skin_id: 96009, skin_name: 克格汪
+    skin_id: 96010, skin_name: 海克斯科技 克格莫
+    skin_id: 96019, skin_name: 奥术师 克格莫
+    skin_id: 96028, skin_name: 小蜜蜂 克格莫
+    skin_id: 96037, skin_name: 电格莫
+    skin_id: 96046, skin_name: 山海绘卷 克格莫
+    15 skins downloaded
+    pick/ban audio downloaded
+[83] hero_id: 98, name: 暮光之眼, title: 慎, alias: Shen
+    skin_id: 98000, skin_name: 暮光之眼
+    skin_id: 98001, skin_name: 极寒 慎
+    skin_id: 98002, skin_name: 炎爆 慎
+    skin_id: 98003, skin_name: 主治医师 慎
+    skin_id: 98004, skin_name: 腥红之月 鬼武者 慎
+    skin_id: 98005, skin_name: 战国大名 慎
+    skin_id: 98006, skin_name: 暗杀星 慎
+    skin_id: 98015, skin_name: 未来战士 慎
+    skin_id: 98016, skin_name: 奈落之炎 慎
+    skin_id: 98022, skin_name: 灵能特工 慎
+    skin_id: 98040, skin_name: 冲击之刃 慎
+    skin_id: 98049, skin_name: 灰烬守护者 慎
+    12 skins downloaded
+    pick/ban audio downloaded
+[84] hero_id: 99, name: 光辉女郎, title: 拉克丝, alias: Lux
+    skin_id: 99000, skin_name: 光辉女郎
+    skin_id: 99001, skin_name: 奥术光辉 拉克丝
+    skin_id: 99002, skin_name: 游侠法师 拉克丝
+    skin_id: 99003, skin_name: ODST地狱伞兵 拉克丝
+    skin_id: 99004, skin_name: 星际迷航 拉克丝
+    skin_id: 99005, skin_name: 钢铁军团 拉克丝
+    skin_id: 99006, skin_name: 星之守护者 拉克丝
+    skin_id: 99007, skin_name: 大元素使 拉克丝
+    skin_id: 99008, skin_name: 春晖神女 拉克丝
+    skin_id: 99014, skin_name: 睡衣守护者 拉克丝
+    skin_id: 99015, skin_name: 战斗学院 拉克丝
+    skin_id: 99016, skin_name: 至臻 战斗学院 拉克丝
+    skin_id: 99017, skin_name: 暗星女王 拉克丝
+    skin_id: 99018, skin_name: 耀星女神 拉克丝
+    skin_id: 99019, skin_name: 太空律动 “闪耀灯球” 拉克丝
+    skin_id: 99029, skin_name: 青花瓷 拉克丝
+    skin_id: 99038, skin_name: 斗魂觉醒 拉克丝
+    skin_id: 99039, skin_name: 至臻 战斗学院 拉克丝 (2022)
+    skin_id: 99040, skin_name: 至臻 青花瓷 拉克丝
+    skin_id: 99042, skin_name: 至高天 拉克丝
+    20 skins downloaded
+    pick/ban audio downloaded
+[85] hero_id: 101, name: 远古巫灵, title: 泽拉斯, alias: Xerath
+    skin_id: 101000, skin_name: 远古巫灵
+    skin_id: 101001, skin_name: 符文生物 泽拉斯
+    skin_id: 101002, skin_name: 战地法师 泽拉斯
+    skin_id: 101003, skin_name: 枯萎之壤 泽拉斯
+    skin_id: 101004, skin_name: 沙之守护 泽拉斯
+    skin_id: 101005, skin_name: 暗星 泽拉斯
+    skin_id: 101012, skin_name: 欲望之主 泽拉斯
+    skin_id: 101021, skin_name: 宇航员 泽拉斯
+    8 skins downloaded
+    pick/ban audio downloaded
+[86] hero_id: 102, name: 龙血武姬, title: 希瓦娜, alias: Shyvana
+    skin_id: 102000, skin_name: 龙血武姬
+    skin_id: 102001, skin_name: 钢之逆鳞 希瓦娜
+    skin_id: 102002, skin_name: 骸骨之爪 希瓦娜
+    skin_id: 102003, skin_name: 黯黑魔龙 希瓦娜
+    skin_id: 102004, skin_name: 冰霜亚龙 希瓦娜
+    skin_id: 102005, skin_name: 冠军之血 希瓦娜
+    skin_id: 102006, skin_name: 银河魔装机神 希瓦娜
+    skin_id: 102008, skin_name: 破败军团 希瓦娜
+    skin_id: 102017, skin_name: 玉剑传说 舞龙卫
+    9 skins downloaded
+    pick/ban audio downloaded
+[87] hero_id: 103, name: 九尾妖狐, title: 阿狸, alias: Ahri
+    skin_id: 103000, skin_name: 九尾妖狐
+    skin_id: 103001, skin_name: 高丽风情 阿狸
+    skin_id: 103002, skin_name: 暗影妖狐 阿狸
+    skin_id: 103003, skin_name: 焰尾妖狐 阿狸
+    skin_id: 103004, skin_name: 偶像歌手 阿狸
+    skin_id: 103005, skin_name: 勇者 阿狸
+    skin_id: 103006, skin_name: 风纪委员 阿狸
+    skin_id: 103007, skin_name: 电玩女神 阿狸
+    skin_id: 103014, skin_name: 星之守护者 阿狸
+    skin_id: 103015, skin_name: K/DA 阿狸
+    skin_id: 103016, skin_name: 至臻 K/DA 阿狸
+    skin_id: 103017, skin_name: 永恒之森 阿狸
+    skin_id: 103027, skin_name: 灵魂莲华 阿狸
+    skin_id: 103028, skin_name: K/DA ALL OUT 阿狸
+    skin_id: 103042, skin_name: 魔女 阿狸
+    skin_id: 103065, skin_name: 至臻 K/DA 阿狸 (2022)
+    skin_id: 103066, skin_name: 魅惑之月 阿狸
+    skin_id: 103076, skin_name: 净雪之月 阿狸
+    18 skins downloaded
+    pick/ban audio downloaded
+[88] hero_id: 104, name: 法外狂徒, title: 格雷福斯, alias: Graves
+    skin_id: 104000, skin_name: 法外狂徒
+    skin_id: 104001, skin_name: 怒之火炮 格雷福斯
+    skin_id: 104002, skin_name: 杀出重围 格雷福斯
+    skin_id: 104003, skin_name: 黑帮教父 格雷福斯
+    skin_id: 104004, skin_name: 防暴士兵 格雷福斯
+    skin_id: 104005, skin_name: 泳池派对 格雷福斯
+    skin_id: 104006, skin_name: 无情重炮 格雷福斯
+    skin_id: 104007, skin_name: 冰雪节 格雷福斯
+    skin_id: 104014, skin_name: 胜利枪神 格雷福斯
+    skin_id: 104018, skin_name: 禁卫机甲 格雷福斯
+    skin_id: 104025, skin_name: 战斗教授 格雷福斯
+    skin_id: 104035, skin_name: 光明哨兵 格雷福斯
+    skin_id: 104042, skin_name: EDG 格雷福斯
+    13 skins downloaded
+    pick/ban audio downloaded
+[89] hero_id: 105, name: 潮汐海灵, title: 菲兹, alias: Fizz
+    skin_id: 105000, skin_name: 潮汐海灵
+    skin_id: 105001, skin_name: 失落大陆 菲兹
+    skin_id: 105002, skin_name: 苔原猎手 菲兹
+    skin_id: 105003, skin_name: 海牛猎手 菲兹
+    skin_id: 105004, skin_name: 虚空海灵 菲兹
+    skin_id: 105008, skin_name: 兔宝宝 菲兹
+    skin_id: 105009, skin_name: 银河魔装机神 菲兹
+    skin_id: 105010, skin_name: 欧米伽小队 鬼影蛙人
+    skin_id: 105014, skin_name: 绒毛菲兹
+    skin_id: 105015, skin_name: 至臻 绒毛菲兹
+    skin_id: 105016, skin_name: 小恶魔 菲兹
+    skin_id: 105025, skin_name: 至臻 绒毛菲兹 (2022)
+    skin_id: 105026, skin_name: 宇航员 菲兹
+    13 skins downloaded
+    pick/ban audio downloaded
+[90] hero_id: 106, name: 不灭狂雷, title: 沃利贝尔, alias: Volibear
+    skin_id: 106000, skin_name: 不灭狂雷
+    skin_id: 106001, skin_name: 雷霆领主 沃利贝尔
+    skin_id: 106002, skin_name: 北地风暴 沃利贝尔
+    skin_id: 106003, skin_name: 符文战熊 沃利贝尔
+    skin_id: 106004, skin_name: 警长 沃利贝尔
+    skin_id: 106005, skin_name: 怒熊 沃利贝尔
+    skin_id: 106006, skin_name: 坚韧不屈 沃利贝尔
+    skin_id: 106007, skin_name: 神龙尊者 均衡之龙 沃利贝尔
+    skin_id: 106009, skin_name: 至臻 神龙尊者 均衡之龙 沃利贝尔
+    skin_id: 106019, skin_name: 墨影之灵 沃利贝尔
+    10 skins downloaded
+    pick/ban audio downloaded
+[91] hero_id: 107, name: 傲之追猎者, title: 雷恩加尔, alias: Rengar
+    skin_id: 107000, skin_name: 傲之追猎者
+    skin_id: 107001, skin_name: 铁血猎人 雷恩加尔
+    skin_id: 107002, skin_name: 暗黑武士 雷恩加尔
+    skin_id: 107003, skin_name: SSW 雷恩加尔
+    skin_id: 107008, skin_name: 霸天战士 雷恩加尔
+    skin_id: 107015, skin_name: 雷喵喵尔
+    skin_id: 107023, skin_name: 沙之守护 雷恩加尔
+    skin_id: 107030, skin_name: 光明哨兵 雷恩加尔
+    skin_id: 107040, skin_name: 妖怪艺术家 雷恩加尔
+    9 skins downloaded
+    pick/ban audio downloaded
+[92] hero_id: 110, name: 惩戒之箭, title: 韦鲁斯, alias: Varus
+    skin_id: 110000, skin_name: 惩戒之箭
+    skin_id: 110001, skin_name: 夜魔水晶 韦鲁斯
+    skin_id: 110002, skin_name: 苍穹之光 韦鲁斯
+    skin_id: 110003, skin_name: 白色死神 韦鲁斯
+    skin_id: 110004, skin_name: 觅心射手 韦鲁斯
+    skin_id: 110005, skin_name: 韦鲁斯·迅箭
+    skin_id: 110006, skin_name: 暗星 韦鲁斯
+    skin_id: 110007, skin_name: 征服者 韦鲁斯
+    skin_id: 110009, skin_name: 地狱火 韦鲁斯
+    skin_id: 110016, skin_name: 源计划：天眼 韦鲁斯
+    skin_id: 110017, skin_name: 猎户星神 韦鲁斯
+    skin_id: 110034, skin_name: 西部魔影 天使 韦鲁斯
+    skin_id: 110044, skin_name: 净雪之月 韦鲁斯
+    13 skins downloaded
+    pick/ban audio downloaded
+[93] hero_id: 111, name: 深海泰坦, title: 诺提勒斯, alias: Nautilus
+    skin_id: 111000, skin_name: 深海泰坦
+    skin_id: 111001, skin_name: 失落大陆 诺提勒斯
+    skin_id: 111002, skin_name: 地底迷城 诺提勒斯
+    skin_id: 111003, skin_name: 宇航员 诺提勒斯
+    skin_id: 111004, skin_name: 光明骑士 诺提勒斯
+    skin_id: 111005, skin_name: 创世之神 诺提勒斯
+    skin_id: 111006, skin_name: 征服者 诺提勒斯
+    skin_id: 111009, skin_name: 山海绘卷 诺提勒斯
+    skin_id: 111018, skin_name: 魔域梦魇 诺提勒斯
+    skin_id: 111027, skin_name: 星界圣骑 诺提勒斯
+    10 skins downloaded
+    pick/ban audio downloaded
+[94] hero_id: 112, name: 机械先驱, title: 维克托, alias: Viktor
+    skin_id: 112000, skin_name: 机械先驱
+    skin_id: 112001, skin_name: 全金属狂潮 维克托
+    skin_id: 112002, skin_name: 初号机 维克托
+    skin_id: 112003, skin_name: 造物主 维克托
+    skin_id: 112004, skin_name: 死亡誓约 维克托
+    skin_id: 112005, skin_name: 灵能特工 维克托
+    skin_id: 112014, skin_name: 西部魔影 天才机械师 维克托
+    7 skins downloaded
+    pick/ban audio downloaded
+[95] hero_id: 113, name: 北地之怒, title: 瑟庄妮, alias: Sejuani
+    skin_id: 113000, skin_name: 北地之怒
+    skin_id: 113001, skin_name: 野兽女王 瑟庄妮
+    skin_id: 113002, skin_name: 死亡骑士 瑟庄妮
+    skin_id: 113003, skin_name: 传统造型 瑟庄妮
+    skin_id: 113004, skin_name: 战熊骑士 瑟庄妮
+    skin_id: 113005, skin_name: 魄罗骑士 瑟庄妮
+    skin_id: 113006, skin_name: 野兽猎人 瑟庄妮
+    skin_id: 113007, skin_name: 瑟庄妮·逐晓者
+    skin_id: 113008, skin_name: 金猪烈焰 瑟庄妮
+    skin_id: 113015, skin_name: 海克斯科技 瑟庄妮
+    skin_id: 113016, skin_name: 源计划：统帅 瑟庄妮
+    skin_id: 113026, skin_name: 日蚀骑士 瑟庄妮
+    skin_id: 113036, skin_name: 胜利女神 瑟庄妮
+    13 skins downloaded
+    pick/ban audio downloaded
+[96] hero_id: 114, name: 无双剑姬, title: 菲奥娜, alias: Fiora
+    skin_id: 114000, skin_name: 无双剑姬
+    skin_id: 114001, skin_name: 皇家守卫 菲奥娜
+    skin_id: 114002, skin_name: 夜鸦 菲奥娜
+    skin_id: 114003, skin_name: 女校长 菲奥娜
+    skin_id: 114004, skin_name: 源计划：火 菲奥娜
+    skin_id: 114005, skin_name: 泳池派对 菲奥娜
+    skin_id: 114022, skin_name: 玉剑传说 无双
+    skin_id: 114023, skin_name: 穿心之剑 菲奥娜
+    skin_id: 114031, skin_name: iG 菲奥娜
+    skin_id: 114041, skin_name: 未来战士 菲奥娜
+    skin_id: 114050, skin_name: 福牛守护者 菲奥娜
+    skin_id: 114051, skin_name: 至臻 福牛守护者 菲奥娜
+    skin_id: 114060, skin_name: 魅惑女巫 菲奥娜
+    skin_id: 114069, skin_name: 花仙骑士 菲奥娜
+    14 skins downloaded
+    pick/ban audio downloaded
+[97] hero_id: 115, name: 爆破鬼才, title: 吉格斯, alias: Ziggs
+    skin_id: 115000, skin_name: 爆破鬼才
+    skin_id: 115001, skin_name: 科学狂人 吉格斯
+    skin_id: 115002, skin_name: 少校 吉格斯
+    skin_id: 115003, skin_name: 泳池派对 吉格斯
+    skin_id: 115004, skin_name: 雪球也能爆炸！ 吉格斯
+    skin_id: 115005, skin_name: 奥术大师 吉格斯
+    skin_id: 115006, skin_name: 战场BOSS 吉格斯
+    skin_id: 115007, skin_name: 奥德赛 吉格斯
+    skin_id: 115014, skin_name: 糖果大战 吉格斯
+    skin_id: 115023, skin_name: 海克斯科技 吉格斯
+    skin_id: 115024, skin_name: 小蜜蜂 吉格斯
+    skin_id: 115033, skin_name: 魂蔷薇 吉格斯
+    12 skins downloaded
+    pick/ban audio downloaded
+[98] hero_id: 117, name: 仙灵女巫, title: 璐璐, alias: Lulu
+    skin_id: 117000, skin_name: 仙灵女巫
+    skin_id: 117001, skin_name: 糖果女巫 璐璐
+    skin_id: 117002, skin_name: 邪恶女巫 璐璐
+    skin_id: 117003, skin_name: 驯龙女巫 璐璐
+    skin_id: 117004, skin_name: 寒冬精灵 璐璐
+    skin_id: 117005, skin_name: 泳池派对 璐璐
+    skin_id: 117006, skin_name: 星之守护者 璐璐
+    skin_id: 117014, skin_name: 创星之灵 璐璐
+    skin_id: 117015, skin_name: 睡衣守护者 璐璐
+    skin_id: 117026, skin_name: 太空律动 “节奏幻师” 璐璐
+    skin_id: 117027, skin_name: 至臻 太空律动 “节奏幻师” 璐璐
+    skin_id: 117037, skin_name: 小怪兽训练师 璐璐
+    skin_id: 117046, skin_name: 咖啡甜心 璐璐
+    13 skins downloaded
+    pick/ban audio downloaded
+[99] hero_id: 119, name: 荣耀行刑官, title: 德莱文, alias: Draven
+    skin_id: 119000, skin_name: 荣耀行刑官
+    skin_id: 119001, skin_name: 灵魂收割者 德莱文
+    skin_id: 119002, skin_name: 绞肉机刽子手 德莱文
+    skin_id: 119003, skin_name: 金牌主播 德莱文
+    skin_id: 119004, skin_name: 泳池派对 德莱文
+    skin_id: 119005, skin_name: 野兽猎人 德莱文
+    skin_id: 119006, skin_name: 德莱德莱德莱文
+    skin_id: 119012, skin_name: 圣诞老人 德莱文
+    skin_id: 119013, skin_name: 王国机神青龙 德莱文
+    skin_id: 119020, skin_name: 破败军团 德莱文
+    skin_id: 119029, skin_name: 刃执事 德莱文
+    skin_id: 119039, skin_name: 魔域梦魇 德莱文
+    skin_id: 119048, skin_name: 魂蔷薇 德莱文
+    13 skins downloaded
+    pick/ban audio downloaded
+[100] hero_id: 120, name: 战争之影, title: 赫卡里姆, alias: Hecarim
+    skin_id: 120000, skin_name: 战争之影
+    skin_id: 120001, skin_name: 血石骑士 赫卡里姆
+    skin_id: 120002, skin_name: 幽魂骑士 赫卡里姆
+    skin_id: 120003, skin_name: 无头骑士 赫卡里姆
+    skin_id: 120004, skin_name: 电玩战魂 赫卡里姆
+    skin_id: 120005, skin_name: 永恒之森 赫卡里姆
+    skin_id: 120006, skin_name: 创世之神 赫卡里姆
+    skin_id: 120007, skin_name: 零之枪骑 赫卡里姆
+    skin_id: 120008, skin_name: 西部魔影 赫卡里姆
+    skin_id: 120014, skin_name: 人马星神 赫卡里姆
+    skin_id: 120022, skin_name: 车骑之力 赫卡里姆
+    11 skins downloaded
+    pick/ban audio downloaded
+[101] hero_id: 121, name: 虚空掠夺者, title: 卡兹克, alias: Khazix
+    skin_id: 121000, skin_name: 虚空掠夺者
+    skin_id: 121001, skin_name: 霸天异形 卡兹克
+    skin_id: 121002, skin_name: 沙之守护 卡兹克
+    skin_id: 121003, skin_name: 死亡绽放 卡兹克
+    skin_id: 121004, skin_name: 暗星 卡兹克
+    skin_id: 121011, skin_name: 冠军掠夺者 卡兹克
+    skin_id: 121060, skin_name: 奥德赛 卡兹克
+    skin_id: 121069, skin_name: 春晖海神 卡兹克
+    8 skins downloaded
+    pick/ban audio downloaded
+[102] hero_id: 122, name: 诺克萨斯之手, title: 德莱厄斯, alias: Darius
+    skin_id: 122000, skin_name: 诺克萨斯之手
+    skin_id: 122001, skin_name: 铁血帝皇 德莱厄斯
+    skin_id: 122002, skin_name: 生化骑士 德莱厄斯
+    skin_id: 122003, skin_name: 勇敢的心 德莱厄斯
+    skin_id: 122004, skin_name: 灌篮高手 德莱厄斯
+    skin_id: 122008, skin_name: 热血班长 德莱厄斯
+    skin_id: 122014, skin_name: 恐惧新星 德莱厄斯
+    skin_id: 122015, skin_name: 神王 德莱厄斯
+    skin_id: 122016, skin_name: 西部魔影 德莱厄斯
+    skin_id: 122024, skin_name: 福牛守护者 德莱厄斯
+    skin_id: 122033, skin_name: 地下都市 梦魇 德莱厄斯
+    skin_id: 122043, skin_name: 灵魂莲华 德莱厄斯
+    12 skins downloaded
+    pick/ban audio downloaded
+[103] hero_id: 126, name: 未来守护者, title: 杰斯, alias: Jayce
+    skin_id: 126000, skin_name: 未来守护者
+    skin_id: 126001, skin_name: 全金属狂潮 杰斯
+    skin_id: 126002, skin_name: 蔷薇绅士 杰斯
+    skin_id: 126003, skin_name: 天启骑士 杰斯
+    skin_id: 126004, skin_name: 杰斯·光明之锤
+    skin_id: 126005, skin_name: 战斗学院 杰斯
+    skin_id: 126015, skin_name: 抵抗军雷神 杰斯
+    skin_id: 126024, skin_name: 双城之战 杰斯
+    skin_id: 126025, skin_name: 巅峰之星 杰斯
+    9 skins downloaded
+    pick/ban audio downloaded
+[104] hero_id: 127, name: 冰霜女巫, title: 丽桑卓, alias: Lissandra
+    skin_id: 127000, skin_name: 冰霜女巫
+    skin_id: 127001, skin_name: 血石妖后 丽桑卓
+    skin_id: 127002, skin_name: 刀锋女王 丽桑卓
+    skin_id: 127003, skin_name: 源代码 丽桑卓
+    skin_id: 127004, skin_name: 魔女 丽桑卓
+    skin_id: 127012, skin_name: 暗星女王 丽桑卓
+    skin_id: 127023, skin_name: 青花瓷 丽桑卓
+    skin_id: 127033, skin_name: 至臻 青花瓷 丽桑卓
+    skin_id: 127034, skin_name: 太空律动 “噪音女王” 丽桑卓
+    8 skins downloaded
+    pick/ban audio downloaded
+[105] hero_id: 131, name: 皎月女神, title: 黛安娜, alias: Diana
+    skin_id: 131000, skin_name: 皎月女神
+    skin_id: 131001, skin_name: 暗黑女武神 黛安娜
+    skin_id: 131002, skin_name: 广寒仙子 嫦娥
+    skin_id: 131003, skin_name: 无限烈焰 黛安娜
+    skin_id: 131011, skin_name: 腥红之月 黛安娜
+    skin_id: 131012, skin_name: 黑潮 黛安娜
+    skin_id: 131018, skin_name: 屠龙勇士 黛安娜
+    skin_id: 131025, skin_name: 女帝 黛安娜
+    skin_id: 131026, skin_name: 至臻 女帝 黛安娜
+    skin_id: 131027, skin_name: 光明哨兵 黛安娜
+    skin_id: 131037, skin_name: 烈焰仙子 黛安娜
+    skin_id: 131047, skin_name: 北极星神 黛安娜
+    12 skins downloaded
+    pick/ban audio downloaded
+[106] hero_id: 133, name: 德玛西亚之翼, title: 奎因, alias: Quinn
+    skin_id: 133000, skin_name: 德玛西亚之翼
+    skin_id: 133001, skin_name: 血羽凤凰 奎因
+    skin_id: 133002, skin_name: 勇敢的心 奎因
+    skin_id: 133003, skin_name: 死亡之鹰 奎因
+    skin_id: 133004, skin_name: 觅心之翼 奎因
+    skin_id: 133005, skin_name: 光明骑士 奎因
+    skin_id: 133014, skin_name: 星之守护者 奎因
+    7 skins downloaded
+    pick/ban audio downloaded
+[107] hero_id: 134, name: 暗黑元首, title: 辛德拉, alias: Syndra
+    skin_id: 134000, skin_name: 暗黑元首
+    skin_id: 134001, skin_name: 仲裁圣女 辛德拉
+    skin_id: 134002, skin_name: 亚特兰蒂斯 辛德拉
+    skin_id: 134003, skin_name: 方块王后 辛德拉
+    skin_id: 134004, skin_name: 冰雪女神 辛德拉
+    skin_id: 134005, skin_name: SKT T1 辛德拉
+    skin_id: 134006, skin_name: 星之守护者 辛德拉
+    skin_id: 134007, skin_name: 泳池派对 辛德拉
+    skin_id: 134016, skin_name: 幽梦玫瑰 辛德拉
+    skin_id: 134025, skin_name: 魅惑女巫 辛德拉
+    skin_id: 134034, skin_name: 至臻 星之守护者 辛德拉
+    skin_id: 134044, skin_name: 灵魂莲华 辛德拉
+    skin_id: 134054, skin_name: 魔女 辛德拉
+    13 skins downloaded
+    pick/ban audio downloaded
+[108] hero_id: 136, name: 铸星龙王, title: 奥瑞利安索尔, alias: AurelionSol
+    skin_id: 136000, skin_name: 铸星龙王
+    skin_id: 136001, skin_name: 灰烬领主 奥瑞利安·索尔
+    skin_id: 136002, skin_name: 霸天龙神 奥瑞利安 · 索尔
+    skin_id: 136011, skin_name: 圣龙 奥瑞利安 · 索尔
+    skin_id: 136021, skin_name: 墨影之灵 奥瑞利安 · 索尔
+    5 skins downloaded
+    pick/ban audio downloaded
+[109] hero_id: 141, name: 影流之镰, title: 凯隐, alias: Kayn
+    skin_id: 141000, skin_name: 影流之镰
+    skin_id: 141001, skin_name: 摄魂猎手 凯隐
+    skin_id: 141002, skin_name: 奥德赛 凯隐
+    skin_id: 141008, skin_name: 黑夜使者 凯隐
+    skin_id: 141009, skin_name: 至臻 黑夜使者 凯隐
+    skin_id: 141015, skin_name: 净雪之月 凯隐
+    skin_id: 141020, skin_name: 心之钢 凯隐
+    7 skins downloaded
+    pick/ban audio downloaded
+[110] hero_id: 142, name: 暮光星灵, title: 佐伊, alias: Zoe
+    skin_id: 142000, skin_name: 暮光星灵
+    skin_id: 142001, skin_name: 赛博潮流 佐伊
+    skin_id: 142002, skin_name: 泳池派对 佐伊
+    skin_id: 142009, skin_name: 星之守护者 佐伊
+    skin_id: 142018, skin_name: 奥术师 佐伊
+    skin_id: 142019, skin_name: 至臻 奥术师 佐伊
+    skin_id: 142020, skin_name: EDG 佐伊
+    skin_id: 142022, skin_name: 北极星守望者 佐伊
+    8 skins downloaded
+    pick/ban audio downloaded
+[111] hero_id: 143, name: 荆棘之兴, title: 婕拉, alias: Zyra
+    skin_id: 143000, skin_name: 荆棘之兴
+    skin_id: 143001, skin_name: 野火之藤 婕拉
+    skin_id: 143002, skin_name: 鬼影森森 婕拉
+    skin_id: 143003, skin_name: SKT T1 婕拉
+    skin_id: 143004, skin_name: 驯龙女巫 婕拉
+    skin_id: 143005, skin_name: 魔女 婕拉
+    skin_id: 143006, skin_name: 至臻 魔女 婕拉
+    skin_id: 143007, skin_name: 水晶玫瑰 婕拉
+    skin_id: 143016, skin_name: 地下都市 梦魇 婕拉
+    skin_id: 143036, skin_name: 剪纸仙灵 婕拉
+    skin_id: 143046, skin_name: 妖怪艺术家 婕拉
+    11 skins downloaded
+    pick/ban audio downloaded
+[112] hero_id: 145, name: 虚空之女, title: 卡莎, alias: Kaisa
+    skin_id: 145000, skin_name: 虚空之女
+    skin_id: 145001, skin_name: 弹幕天使 卡莎
+    skin_id: 145014, skin_name: K/DA 卡莎
+    skin_id: 145015, skin_name: 至臻 K/DA 卡莎
+    skin_id: 145016, skin_name: iG 卡莎
+    skin_id: 145017, skin_name: 电玩女神 卡莎
+    skin_id: 145026, skin_name: K/DA ALL OUT 卡莎
+    skin_id: 145027, skin_name: 至臻 K/DA ALL OUT 卡莎
+    skin_id: 145029, skin_name: 神龙尊者 玉境灵龙 卡莎
+    skin_id: 145039, skin_name: 至臻 K/DA 卡莎 (2022)
+    skin_id: 145040, skin_name: 星之守护者 卡莎
+    skin_id: 145048, skin_name: 墨之影武者 卡莎
+    12 skins downloaded
+    pick/ban audio downloaded
+[113] hero_id: 147, name: 星籁歌姬, title: 萨勒芬妮, alias: Seraphine
+    skin_id: 147000, skin_name: 星籁歌姬
+    skin_id: 147001, skin_name: K/DA ALL OUT 萨勒芬妮 独立音乐人
+    skin_id: 147004, skin_name: 神凰行者 幽羽玄凰 萨勒芬妮
+    skin_id: 147014, skin_name: 海之歌 萨勒芬妮
+    skin_id: 147015, skin_name: 至臻 海之歌 萨勒芬妮
+    skin_id: 147024, skin_name: 花仙子 萨勒芬妮
+    skin_id: 147034, skin_name: 星之守护者 萨勒芬妮
+    7 skins downloaded
+    pick/ban audio downloaded
+[114] hero_id: 150, name: 迷失之牙, title: 纳尔, alias: Gnar
+    skin_id: 150000, skin_name: 迷失之牙
+    skin_id: 150001, skin_name: 最后一只恐龙 纳尔
+    skin_id: 150002, skin_name: 萌侦探 喵尔摩斯
+    skin_id: 150003, skin_name: 冰雪兽 纳尔
+    skin_id: 150004, skin_name: 狂狮 纳尔
+    skin_id: 150013, skin_name: 银河魔装机神 纳尔
+    skin_id: 150014, skin_name: SSG 纳尔
+    skin_id: 150015, skin_name: 宇航员 纳尔
+    skin_id: 150022, skin_name: 永恒之森 纳尔
+    skin_id: 150031, skin_name: 灵之菊 纳尔
+    10 skins downloaded
+    pick/ban audio downloaded
+[115] hero_id: 154, name: 生化魔人, title: 扎克, alias: Zac
+    skin_id: 154000, skin_name: 生化魔人
+    skin_id: 154001, skin_name: 邪恶魔人 扎克
+    skin_id: 154002, skin_name: 泳池派对 扎克
+    skin_id: 154006, skin_name: SKT T1 扎克
+    skin_id: 154007, skin_name: 战地机甲 扎克
+    skin_id: 154014, skin_name: 至高天 扎克
+    6 skins downloaded
+    pick/ban audio downloaded
+[116] hero_id: 157, name: 疾风剑豪, title: 亚索, alias: Yasuo
+    skin_id: 157000, skin_name: 疾风剑豪
+    skin_id: 157001, skin_name: 西部牛仔 亚索
+    skin_id: 157002, skin_name: 源计划：风 亚索
+    skin_id: 157003, skin_name: 腥红之月 亚索
+    skin_id: 157009, skin_name: 黑夜使者 亚索
+    skin_id: 157010, skin_name: 奥德赛 亚索
+    skin_id: 157017, skin_name: 战场BOSS 亚索
+    skin_id: 157018, skin_name: 真实伤害 亚索
+    skin_id: 157035, skin_name: 至臻 真实伤害 亚索
+    skin_id: 157036, skin_name: 灵魂莲华 亚索
+    skin_id: 157045, skin_name: 断浪之刃 亚索
+    skin_id: 157054, skin_name: 神龙尊者 昼日真龙 亚索
+    skin_id: 157055, skin_name: 神龙尊者 夜月幻龙 亚索
+    skin_id: 157056, skin_name: 墨之影武者 亚索
+    skin_id: 157057, skin_name: 至臻 墨之影武者 亚索
+    15 skins downloaded
+    pick/ban audio downloaded
+[117] hero_id: 161, name: 虚空之眼, title: 维克兹, alias: Velkoz
+    skin_id: 161000, skin_name: 虚空之眼
+    skin_id: 161001, skin_name: 战地机甲 维克兹
+    skin_id: 161002, skin_name: 苍穹之光 维克兹
+    skin_id: 161003, skin_name: 这货不是维克兹
+    skin_id: 161004, skin_name: 地狱火 维克兹
+    skin_id: 161011, skin_name: 黯晶之眼 维克兹
+    6 skins downloaded
+    pick/ban audio downloaded
+[118] hero_id: 163, name: 岩雀, title: 塔莉垭, alias: Taliyah
+    skin_id: 163000, skin_name: 岩雀
+    skin_id: 163001, skin_name: 弗雷尔卓德 塔莉垭
+    skin_id: 163002, skin_name: SSG 塔莉垭
+    skin_id: 163003, skin_name: 泳池派对 塔莉垭
+    skin_id: 163011, skin_name: 星之守护者 塔莉垭
+    skin_id: 163021, skin_name: 水晶圣骑 塔莉垭
+    6 skins downloaded
+    pick/ban audio downloaded
+[119] hero_id: 164, name: 青钢影, title: 卡蜜尔, alias: Camille
+    skin_id: 164000, skin_name: 青钢影
+    skin_id: 164001, skin_name: 源代码 卡蜜尔
+    skin_id: 164002, skin_name: 魔女 卡蜜尔
+    skin_id: 164010, skin_name: iG 卡蜜尔
+    skin_id: 164011, skin_name: 莫测之影 卡蜜尔
+    skin_id: 164021, skin_name: 海珀利安小队 Y03-权天使 卡蜜尔
+    6 skins downloaded
+    pick/ban audio downloaded
+[120] hero_id: 166, name: 影哨, title: 阿克尚, alias: Akshan
+    skin_id: 166000, skin_name: 影哨
+    skin_id: 166001, skin_name: 赛博潮流 阿克尚
+    skin_id: 166010, skin_name: 水晶玫瑰 阿克尚
+    3 skins downloaded
+    pick/ban audio downloaded
+[121] hero_id: 200, name: 虚空女皇, title: 卑尔维斯, alias: Belveth
+    skin_id: 200000, skin_name: 虚空女皇
+    skin_id: 200001, skin_name: 战场BOSS 卑尔维斯
+    skin_id: 200010, skin_name: 星界女神 卑尔维斯
+    3 skins downloaded
+    pick/ban audio downloaded
+[122] hero_id: 201, name: 弗雷尔卓德之心, title: 布隆, alias: Braum
+    skin_id: 201000, skin_name: 弗雷尔卓德之心
+    skin_id: 201001, skin_name: 屠龙勇士 布隆
+    skin_id: 201002, skin_name: 猛虎 布隆
+    skin_id: 201003, skin_name: 布隆·狮心
+    skin_id: 201010, skin_name: 圣诞老人 布隆
+    skin_id: 201011, skin_name: 黑帮管家 布隆
+    skin_id: 201024, skin_name: 糖果大战 布隆
+    skin_id: 201033, skin_name: 泳池派对 布隆
+    8 skins downloaded
+    pick/ban audio downloaded
+[123] hero_id: 202, name: 戏命师, title: 烬, alias: Jhin
+    skin_id: 202000, skin_name: 戏命师
+    skin_id: 202001, skin_name: 西部牛仔 烬
+    skin_id: 202002, skin_name: 腥红之月 烬
+    skin_id: 202003, skin_name: SKT T1 烬
+    skin_id: 202004, skin_name: 源计划：升华 烬
+    skin_id: 202005, skin_name: 暗星尊 烬
+    skin_id: 202014, skin_name: 山海绘卷 烬
+    skin_id: 202023, skin_name: DWG 烬
+    skin_id: 202025, skin_name: 至高天 烬
+    skin_id: 202036, skin_name: 斗魂觉醒 烬
+    skin_id: 202037, skin_name: 暗星绝杀 烬
+    11 skins downloaded
+    pick/ban audio downloaded
+[124] hero_id: 203, name: 永猎双子, title: 千珏, alias: Kindred
+    skin_id: 203000, skin_name: 永猎双子
+    skin_id: 203001, skin_name: 黯焰双魂 千珏
+    skin_id: 203002, skin_name: 银河魔装机神 千珏
+    skin_id: 203003, skin_name: 灵魂莲华 千珏
+    skin_id: 203012, skin_name: 青花瓷 千珏
+    skin_id: 203022, skin_name: 猫狗大战 千珏
+    skin_id: 203023, skin_name: DRX 千珏
+    7 skins downloaded
+    pick/ban audio downloaded
+[125] hero_id: 221, name: 祖安花火, title: 泽丽, alias: Zeri
+    skin_id: 221000, skin_name: 祖安花火
+    skin_id: 221001, skin_name: 幽梦玫瑰 泽丽
+    skin_id: 221010, skin_name: 海之歌 泽丽
+    skin_id: 221019, skin_name: 玉剑传说 神机花火
+    4 skins downloaded
+    pick/ban audio downloaded
+[126] hero_id: 222, name: 暴走萝莉, title: 金克丝, alias: Jinx
+    skin_id: 222000, skin_name: 暴走萝莉
+    skin_id: 222001, skin_name: 黑帮狂花 金克丝
+    skin_id: 222002, skin_name: 神龙烈焰 金克丝
+    skin_id: 222003, skin_name: 丧尸杀手 金克丝
+    skin_id: 222004, skin_name: 星之守护者 金克丝
+    skin_id: 222012, skin_name: 圣诞捣蛋鬼 金克丝
+    skin_id: 222013, skin_name: 奥德赛 金克丝
+    skin_id: 222020, skin_name: 源计划：疯狂 金克丝
+    skin_id: 222029, skin_name: 觅心萝莉 金克丝
+    skin_id: 222037, skin_name: 双城之战 金克丝
+    skin_id: 222038, skin_name: 幻灵战斗猫 金克丝
+    skin_id: 222040, skin_name: 至臻 幻灵战斗猫 金克丝
+    skin_id: 222051, skin_name: 咖啡甜心 金克丝
+    13 skins downloaded
+    pick/ban audio downloaded
+[127] hero_id: 223, name: 河流之王, title: 塔姆, alias: TahmKench
+    skin_id: 223000, skin_name: 河流之王
+    skin_id: 223001, skin_name: 五星大厨 塔姆
+    skin_id: 223002, skin_name: 海牛大大 塔姆
+    skin_id: 223003, skin_name: 纳财大帝 塔姆
+    skin_id: 223011, skin_name: 秩序之舌 塔姆
+    skin_id: 223020, skin_name: 西部魔影 恶魔大亨 塔姆
+    skin_id: 223030, skin_name: 山海绘卷 塔姆
+    7 skins downloaded
+    pick/ban audio downloaded
+[128] hero_id: 233, name: 狂厄蔷薇, title: 贝蕾亚, alias: Briar
+    skin_id: 233000, skin_name: 狂厄蔷薇
+    skin_id: 233001, skin_name: 妖怪艺术家 贝蕾亚
+    2 skins downloaded
+    pick/ban audio downloaded
+[129] hero_id: 234, name: 破败之王, title: 佛耶戈, alias: Viego
+    skin_id: 234000, skin_name: 破败之王
+    skin_id: 234001, skin_name: 福牛守护者 佛耶戈
+    skin_id: 234010, skin_name: 五杀摇滚之噪音 佛耶戈
+    skin_id: 234019, skin_name: EDG 佛耶戈
+    skin_id: 234021, skin_name: 国王 佛耶戈
+    skin_id: 234030, skin_name: 斗魂觉醒 佛耶戈
+    6 skins downloaded
+    pick/ban audio downloaded
+[130] hero_id: 235, name: 涤魂圣枪, title: 赛娜, alias: Senna
+    skin_id: 235000, skin_name: 涤魂圣枪
+    skin_id: 235001, skin_name: 真实伤害 赛娜
+    skin_id: 235009, skin_name: 至臻 真实伤害 赛娜
+    skin_id: 235010, skin_name: 西部天使 赛娜
+    skin_id: 235016, skin_name: 源计划：魅灵 赛娜
+    skin_id: 235026, skin_name: 月蚀骑士 赛娜
+    skin_id: 235027, skin_name: 至臻 月蚀骑士 赛娜
+    skin_id: 235036, skin_name: 魅惑女巫 赛娜
+    skin_id: 235046, skin_name: 星之守护者 赛娜
+    9 skins downloaded
+    pick/ban audio downloaded
+[131] hero_id: 236, name: 圣枪游侠, title: 卢锡安, alias: Lucian
+    skin_id: 236000, skin_name: 圣枪游侠
+    skin_id: 236001, skin_name: 职业杀手 卢锡安
+    skin_id: 236002, skin_name: 夺命前锋 卢锡安
+    skin_id: 236006, skin_name: 源计划：雷 卢锡安
+    skin_id: 236007, skin_name: 觅心游侠 卢锡安
+    skin_id: 236008, skin_name: 西部魔影 卢锡安
+    skin_id: 236009, skin_name: 德玛西亚警官 卢锡安
+    skin_id: 236018, skin_name: 未来战士 卢锡安
+    skin_id: 236019, skin_name: 至臻 未来战士 卢锡安
+    skin_id: 236025, skin_name: 胜利枪神 卢锡安
+    skin_id: 236031, skin_name: 正义之枪 卢锡安
+    skin_id: 236040, skin_name: 海珀利安小队 Z01-猎户座 卢锡安
+    12 skins downloaded
+    pick/ban audio downloaded
+[132] hero_id: 238, name: 影流之主, title: 劫, alias: Zed
+    skin_id: 238000, skin_name: 影流之主
+    skin_id: 238001, skin_name: 冲击之刃 劫
+    skin_id: 238002, skin_name: SKT T1 劫
+    skin_id: 238003, skin_name: 源计划：阴 劫
+    skin_id: 238010, skin_name: 冠军之隐 劫
+    skin_id: 238011, skin_name: 死亡誓约 劫
+    skin_id: 238013, skin_name: 天煞 劫
+    skin_id: 238015, skin_name: 灵能特工 劫
+    skin_id: 238030, skin_name: 至臻 源计划：阴 劫
+    skin_id: 238031, skin_name: 影执事 劫
+    skin_id: 238038, skin_name: 至高天 劫
+    skin_id: 238049, skin_name: 玉剑传说 无劫
+    12 skins downloaded
+    pick/ban audio downloaded
+[133] hero_id: 240, name: 暴怒骑士, title: 克烈, alias: Kled
+    skin_id: 240000, skin_name: 暴怒骑士
+    skin_id: 240001, skin_name: 爵士 克烈
+    skin_id: 240002, skin_name: 克烈古拉伯爵
+    skin_id: 240009, skin_name: 黑暗骑士 克烈
+    skin_id: 240018, skin_name: 狗粮克烈
+    5 skins downloaded
+    pick/ban audio downloaded
+[134] hero_id: 245, name: 时间刺客, title: 艾克, alias: Ekko
+    skin_id: 245000, skin_name: 时间刺客
+    skin_id: 245001, skin_name: 时之砂 艾克
+    skin_id: 245002, skin_name: 任性学霸 艾克
+    skin_id: 245003, skin_name: 源计划：自由 艾克
+    skin_id: 245011, skin_name: SKT T1 艾克
+    skin_id: 245012, skin_name: 不给糖就捣蛋 艾克
+    skin_id: 245019, skin_name: 真实伤害 艾克
+    skin_id: 245028, skin_name: 未来战士 艾克
+    skin_id: 245036, skin_name: 野火首领 艾克
+    skin_id: 245045, skin_name: 星之守护者 艾克
+    skin_id: 245046, skin_name: 至臻 星之守护者 艾克
+    skin_id: 245056, skin_name: 真实伤害 突破界限 艾克
+    12 skins downloaded
+    pick/ban audio downloaded
+[135] hero_id: 246, name: 元素女皇, title: 奇亚娜, alias: Qiyana
+    skin_id: 246000, skin_name: 元素女皇
+    skin_id: 246001, skin_name: 战场BOSS 奇亚娜
+    skin_id: 246002, skin_name: 真实伤害 奇亚娜
+    skin_id: 246010, skin_name: 至臻 真实伤害 奇亚娜
+    skin_id: 246011, skin_name: 女帝 奇亚娜
+    skin_id: 246020, skin_name: 冲击之刃 奇亚娜
+    skin_id: 246021, skin_name: 至臻 真实伤害 奇亚娜 (2022)
+    skin_id: 246030, skin_name: 春晖神女 奇亚娜
+    skin_id: 246040, skin_name: 灵之菊 奇亚娜
+    9 skins downloaded
+    pick/ban audio downloaded
+[136] hero_id: 254, name: 皮城执法官, title: 蔚, alias: Vi
+    skin_id: 254000, skin_name: 皮城执法官
+    skin_id: 254001, skin_name: 霓虹杀拳 蔚
+    skin_id: 254002, skin_name: 女警官 蔚
+    skin_id: 254003, skin_name: 铁拳执事 蔚
+    skin_id: 254004, skin_name: 炼狱魔女 蔚
+    skin_id: 254005, skin_name: 虎痴之拳 蔚
+    skin_id: 254011, skin_name: 源计划：裁决 蔚
+    skin_id: 254012, skin_name: 碎心之拳 蔚
+    skin_id: 254020, skin_name: 灵能特工 蔚
+    skin_id: 254029, skin_name: 双城之战 蔚
+    skin_id: 254030, skin_name: 意乱情迷 蔚
+    11 skins downloaded
+    pick/ban audio downloaded
+[137] hero_id: 266, name: 暗裔剑魔, title: 亚托克斯, alias: Aatrox
+    skin_id: 266000, skin_name: 暗裔剑魔
+    skin_id: 266001, skin_name: 仲裁圣骑 亚托克斯
+    skin_id: 266002, skin_name: 霸天剑魔 亚托克斯
+    skin_id: 266003, skin_name: 狂鲨 亚托克斯
+    skin_id: 266007, skin_name: 腥红之月 亚托克斯
+    skin_id: 266008, skin_name: 至臻 腥红之月 亚托克斯
+    skin_id: 266009, skin_name: 胜利之剑 亚托克斯
+    skin_id: 266011, skin_name: 奥德赛 亚托克斯
+    skin_id: 266020, skin_name: 至臻 腥红之月 亚托克斯 (2022)
+    skin_id: 266021, skin_name: 月蚀骑士 亚托克斯
+    skin_id: 266030, skin_name: DRX 亚托克斯
+    skin_id: 266031, skin_name: 至臻 DRX 亚托克斯
+    12 skins downloaded
+    pick/ban audio downloaded
+[138] hero_id: 267, name: 唤潮鲛姬, title: 娜美, alias: Nami
+    skin_id: 267000, skin_name: 唤潮鲛姬
+    skin_id: 267001, skin_name: 锦鲤 娜美
+    skin_id: 267002, skin_name: 河水之灵 娜美
+    skin_id: 267003, skin_name: 鲛妮座人 娜美
+    skin_id: 267007, skin_name: 海皇姬 娜美
+    skin_id: 267008, skin_name: SKT T1 娜美
+    skin_id: 267009, skin_name: 源代码 娜美
+    skin_id: 267015, skin_name: 玉剑传说 寒潭夭夭
+    skin_id: 267024, skin_name: 双鱼星神 娜美
+    skin_id: 267032, skin_name: 魅惑女巫 娜美
+    skin_id: 267041, skin_name: 太空律动 “魔音海妖” 娜美
+    skin_id: 267042, skin_name: 至臻 太空律动 “魔音海妖” 娜美
+    skin_id: 267051, skin_name: 魔女 娜美
+    11 skins downloaded
+    pick/ban audio downloaded
+[139] hero_id: 268, name: 沙漠皇帝, title: 阿兹尔, alias: Azir
+    skin_id: 268000, skin_name: 沙漠皇帝
+    skin_id: 268001, skin_name: 星际之门 阿兹尔
+    skin_id: 268002, skin_name: 幽冥领主 阿兹尔
+    skin_id: 268003, skin_name: SKT T1 阿兹尔
+    skin_id: 268004, skin_name: 司马懿 仲达
+    skin_id: 268005, skin_name: 永恒之森 阿兹尔
+    skin_id: 268014, skin_name: 2022 全球总决赛 阿兹尔
+    7 skins downloaded
+    pick/ban audio downloaded
+[140] hero_id: 350, name: 魔法猫咪, title: 悠米, alias: Yuumi
+    skin_id: 350000, skin_name: 魔法猫咪
+    skin_id: 350001, skin_name: 战斗校长 悠米
+    skin_id: 350011, skin_name: 觅心猫猫 悠米
+    skin_id: 350019, skin_name: 小蜜蜂 悠米
+    skin_id: 350028, skin_name: 魅惑女巫 悠米
+    skin_id: 350037, skin_name: EDG 悠米
+    skin_id: 350039, skin_name: 狗头猫咪 悠米
+    7 skins downloaded
+    pick/ban audio downloaded
+[141] hero_id: 360, name: 沙漠玫瑰, title: 莎弥拉, alias: Samira
+    skin_id: 360000, skin_name: 沙漠玫瑰
+    skin_id: 360001, skin_name: 灵能特工 莎弥拉
+    skin_id: 360010, skin_name: 太空律动 “音浪狂舞” 莎弥拉
+    skin_id: 360020, skin_name: 西部魔影 持枪女巫 莎弥拉
+    skin_id: 360030, skin_name: 斗魂觉醒 莎弥拉
+    5 skins downloaded
+    pick/ban audio downloaded
+[142] hero_id: 412, name: 魂锁典狱长, title: 锤石, alias: Thresh
+    skin_id: 412000, skin_name: 魂锁典狱长
+    skin_id: 412001, skin_name: 深渊恐惧 锤石
+    skin_id: 412002, skin_name: 冠军典狱长 锤石
+    skin_id: 412003, skin_name: 腥红之月 锤石
+    skin_id: 412004, skin_name: SSW 锤石
+    skin_id: 412005, skin_name: 暗星 锤石
+    skin_id: 412006, skin_name: 西部魔影 锤石
+    skin_id: 412013, skin_name: 未来战士 锤石
+    skin_id: 412014, skin_name: 至臻 未来战士 锤石
+    skin_id: 412015, skin_name: FPX 锤石
+    skin_id: 412017, skin_name: 灵魂莲华 锤石
+    skin_id: 412027, skin_name: 破败解封 锤石
+    skin_id: 412028, skin_name: 神龙尊者 钢铁之龙 锤石
+    skin_id: 412038, skin_name: 至臻 未来战士 锤石 (2022)
+    skin_id: 412039, skin_name: 春晖大帝 锤石
+    15 skins downloaded
+    pick/ban audio downloaded
+[143] hero_id: 420, name: 海兽祭司, title: 俄洛伊, alias: Illaoi
+    skin_id: 420000, skin_name: 海兽祭司
+    skin_id: 420001, skin_name: 虚空使者 俄洛伊
+    skin_id: 420002, skin_name: 抵抗军炎魔 俄洛伊
+    skin_id: 420010, skin_name: 水瓶星神 俄洛伊
+    skin_id: 420018, skin_name: 净雪之月 俄洛伊
+    5 skins downloaded
+    pick/ban audio downloaded
+[144] hero_id: 421, name: 虚空遁地兽, title: 雷克塞, alias: RekSai
+    skin_id: 421000, skin_name: 虚空遁地兽
+    skin_id: 421001, skin_name: 上古战魂 雷克塞
+    skin_id: 421002, skin_name: 泳池派对 雷克塞
+    skin_id: 421009, skin_name: 黯晶巨兽 雷克塞
+    skin_id: 421017, skin_name: 永恒之森 雷克塞
+    5 skins downloaded
+    pick/ban audio downloaded
+[145] hero_id: 427, name: 翠神, title: 艾翁, alias: Ivern
+    skin_id: 427000, skin_name: 翠神
+    skin_id: 427001, skin_name: 糖果之王 艾翁
+    skin_id: 427002, skin_name: 灌篮高手 艾翁
+    skin_id: 427011, skin_name: 古神 艾翁
+    skin_id: 427020, skin_name: 宇航员 艾翁
+    5 skins downloaded
+    pick/ban audio downloaded
+[146] hero_id: 429, name: 复仇之矛, title: 卡莉丝塔, alias: Kalista
+    skin_id: 429000, skin_name: 复仇之矛
+    skin_id: 429001, skin_name: 腥红之月 卡莉丝塔
+    skin_id: 429002, skin_name: 冠军之矛 卡莉丝塔
+    skin_id: 429003, skin_name: SKT T1 卡莉丝塔
+    skin_id: 429005, skin_name: 黑暗骑士 卡莉丝塔
+    skin_id: 429014, skin_name: 花仙骑士 卡莉丝塔
+    5 skins downloaded
+    pick/ban audio downloaded
+[147] hero_id: 432, name: 星界游神, title: 巴德, alias: Bard
+    skin_id: 432000, skin_name: 星界游神
+    skin_id: 432001, skin_name: 永恒之森 巴德
+    skin_id: 432005, skin_name: 冰雪游神 巴德
+    skin_id: 432006, skin_name: 巴德·吟游诗人
+    skin_id: 432008, skin_name: 宇航员 巴德
+    skin_id: 432017, skin_name: 咖啡甜心 巴德
+    skin_id: 432026, skin_name: 山海绘卷 巴德
+    7 skins downloaded
+    pick/ban audio downloaded
+[148] hero_id: 497, name: 幻翎, title: 洛, alias: Rakan
+    skin_id: 497000, skin_name: 幻翎
+    skin_id: 497001, skin_name: 晨星之翎 洛
+    skin_id: 497002, skin_name: 甜心之翎 洛
+    skin_id: 497003, skin_name: SSG 洛
+    skin_id: 497004, skin_name: iG 洛
+    skin_id: 497005, skin_name: 星之守护者 洛
+    skin_id: 497009, skin_name: 永恒之森 洛
+    skin_id: 497018, skin_name: 比翼之心 洛
+    skin_id: 497027, skin_name: 绝息圣堂 洛
+    skin_id: 497036, skin_name: 星之守护者 净化之翎 洛
+    10 skins downloaded
+    pick/ban audio downloaded
+[149] hero_id: 498, name: 逆羽, title: 霞, alias: Xayah
+    skin_id: 498000, skin_name: 逆羽
+    skin_id: 498001, skin_name: 暮星之羽 霞
+    skin_id: 498002, skin_name: 甜心之羽 霞
+    skin_id: 498003, skin_name: SSG 霞
+    skin_id: 498004, skin_name: 星之守护者 霞
+    skin_id: 498008, skin_name: 永恒之森 霞
+    skin_id: 498017, skin_name: 神凰行者 烈羽焰凰 霞
+    skin_id: 498026, skin_name: 至臻 神凰行者 烈羽焰凰 霞
+    skin_id: 498028, skin_name: 比翼之心 霞
+    skin_id: 498037, skin_name: 绝息圣堂 霞
+    skin_id: 498038, skin_name: 星之守护者 净化之羽 霞
+    11 skins downloaded
+    pick/ban audio downloaded
+[150] hero_id: 516, name: 山隐之焰, title: 奥恩, alias: Ornn
+    skin_id: 516000, skin_name: 山隐之焰
+    skin_id: 516001, skin_name: 雷霆领主 奥恩
+    skin_id: 516002, skin_name: 永恒之森 奥恩
+    skin_id: 516011, skin_name: 太空律动 “创乐之神” 奥恩
+    3 skins downloaded
+    pick/ban audio downloaded
+[151] hero_id: 517, name: 解脱者, title: 塞拉斯, alias: Sylas
+    skin_id: 517000, skin_name: 解脱者
+    skin_id: 517001, skin_name: 窃魂修罗 塞拉斯
+    skin_id: 517008, skin_name: 弗雷尔卓德 塞拉斯
+    skin_id: 517013, skin_name: 源计划：逆流 塞拉斯
+    skin_id: 517014, skin_name: 至臻 源计划：逆流 塞拉斯
+    skin_id: 517024, skin_name: 幻灵战斗狼 塞拉斯
+    skin_id: 517034, skin_name: 灰烬杀手 塞拉斯
+    7 skins downloaded
+    pick/ban audio downloaded
+[152] hero_id: 518, name: 万花通灵, title: 妮蔻, alias: Neeko
+    skin_id: 518000, skin_name: 万花通灵
+    skin_id: 518001, skin_name: 冬境仙灵 妮蔻
+    skin_id: 518010, skin_name: 星之守护者 妮蔻
+    skin_id: 518011, skin_name: 至臻 星之守护者 妮蔻
+    skin_id: 518012, skin_name: 山海绘卷 妮蔻
+    skin_id: 518021, skin_name: 至臻 星之守护者 妮蔻 (2022)
+    skin_id: 518022, skin_name: 魅惑女巫 妮蔻
+    skin_id: 518031, skin_name: 妖怪艺术家 妮蔻
+    8 skins downloaded
+    pick/ban audio downloaded
+[153] hero_id: 523, name: 残月之肃, title: 厄斐琉斯, alias: Aphelios
+    skin_id: 523000, skin_name: 残月之肃
+    skin_id: 523001, skin_name: 黑夜使者 厄斐琉斯
+    skin_id: 523009, skin_name: 福牛守护者 厄斐琉斯
+    skin_id: 523018, skin_name: EDG 厄斐琉斯
+    skin_id: 523020, skin_name: 灵魂莲华 厄斐琉斯
+    skin_id: 523030, skin_name: 心之钢 厄斐琉斯
+    6 skins downloaded
+    pick/ban audio downloaded
+[154] hero_id: 526, name: 镕铁少女, title: 芮尔, alias: Rell
+    skin_id: 526000, skin_name: 镕铁少女
+    skin_id: 526001, skin_name: 女帝 芮尔
+    skin_id: 526010, skin_name: 星之守护者 芮尔
+    3 skins downloaded
+    pick/ban audio downloaded
+[155] hero_id: 555, name: 血港鬼影, title: 派克, alias: Pyke
+    skin_id: 555000, skin_name: 血港鬼影
+    skin_id: 555001, skin_name: 怨之砂 派克
+    skin_id: 555009, skin_name: 腥红之月 派克
+    skin_id: 555016, skin_name: 源计划：毁灭 派克
+    skin_id: 555025, skin_name: 灵能特工 派克
+    skin_id: 555034, skin_name: 光明哨兵 派克
+    skin_id: 555044, skin_name: 灰烬骑士 派克
+    skin_id: 555045, skin_name: 至高天 派克
+    skin_id: 555053, skin_name: 斗魂觉醒 派克
+    skin_id: 555054, skin_name: 至臻 斗魂觉醒 派克
+    10 skins downloaded
+    pick/ban audio downloaded
+[156] hero_id: 711, name: 愁云使者, title: 薇古丝, alias: Vex
+    skin_id: 711000, skin_name: 愁云使者
+    skin_id: 711001, skin_name: 黎明使者 薇古丝
+    skin_id: 711010, skin_name: 至高天 薇古丝
+    3 skins downloaded
+    pick/ban audio downloaded
+[157] hero_id: 777, name: 封魔剑魂, title: 永恩, alias: Yone
+    skin_id: 777000, skin_name: 封魔剑魂
+    skin_id: 777001, skin_name: 灵魂莲华 永恩
+    skin_id: 777010, skin_name: 战斗学院 永恩
+    skin_id: 777019, skin_name: 黎明使者 永恩
+    skin_id: 777026, skin_name: 海之歌 永恩
+    skin_id: 777035, skin_name: 墨之影武者 永恩
+    skin_id: 777045, skin_name: 心之钢 永恩
+    skin_id: 777046, skin_name: 至臻 心之钢 永恩
+    8 skins downloaded
+    pick/ban audio downloaded
+[158] hero_id: 875, name: 腕豪, title: 瑟提, alias: Sett
+    skin_id: 875000, skin_name: 腕豪
+    skin_id: 875001, skin_name: 王国机神苍狼 瑟提
+    skin_id: 875008, skin_name: 神龙尊者 炎龙瑟提
+    skin_id: 875009, skin_name: 至臻 神龙尊者 炎龙瑟提
+    skin_id: 875010, skin_name: 泳池派对 瑟提
+    skin_id: 875019, skin_name: 龙腾虎跃 瑟提
+    skin_id: 875038, skin_name: 灵魂莲华 瑟提
+    skin_id: 875045, skin_name: 斗魂觉醒 瑟提
+    skin_id: 875056, skin_name: 心之钢 瑟提
+    9 skins downloaded
+    pick/ban audio downloaded
+[159] hero_id: 876, name: 含羞蓓蕾, title: 莉莉娅, alias: Lillia
+    skin_id: 876000, skin_name: 含羞蓓蕾
+    skin_id: 876001, skin_name: 灵魂莲华 莉莉娅
+    skin_id: 876010, skin_name: 黑夜使者 莉莉娅
+    skin_id: 876019, skin_name: 山海绘卷 莉莉娅
+    4 skins downloaded
+    pick/ban audio downloaded
+[160] hero_id: 887, name: 灵罗娃娃, title: 格温, alias: Gwen
+    skin_id: 887000, skin_name: 灵罗娃娃
+    skin_id: 887001, skin_name: 太空律动 “百万调音” 格温
+    skin_id: 887011, skin_name: 咖啡甜心 格温
+    skin_id: 887020, skin_name: 斗魂觉醒 格温
+    4 skins downloaded
+    pick/ban audio downloaded
+[161] hero_id: 888, name: 炼金男爵, title: 烈娜塔 · 戈拉斯克, alias: Renata
+    skin_id: 888000, skin_name: 炼金男爵
+    skin_id: 888001, skin_name: 舰队司令 烈娜塔
+    skin_id: 888010, skin_name: 魔域梦魇 烈娜塔
+    skin_id: 888020, skin_name: 魂蔷薇 烈娜塔
+    skin_id: 888021, skin_name: 至臻 魂蔷薇 烈娜塔
+    5 skins downloaded
+    pick/ban audio downloaded
+[162] hero_id: 895, name: 不羁之悦, title: 尼菈, alias: Nilah
+    skin_id: 895000, skin_name: 不羁之悦
+    skin_id: 895001, skin_name: 星之守护者 尼菈
+    skin_id: 895011, skin_name: 魔女 尼菈
+    3 skins downloaded
+    pick/ban audio downloaded
+[163] hero_id: 897, name: 纳祖芒荣耀, title: 奎桑提, alias: KSante
+    skin_id: 897000, skin_name: 纳祖芒荣耀
+    skin_id: 897001, skin_name: 至高天 奎桑提
+    skin_id: 897002, skin_name: 至臻 至高天 奎桑提
+    skin_id: 897008, skin_name: 心之钢 奎桑提
+    4 skins downloaded
+    pick/ban audio downloaded
+[164] hero_id: 902, name: 明烛, title: 米利欧, alias: Milio
+    skin_id: 902000, skin_name: 明烛
+    skin_id: 902001, skin_name: 花仙贤者 米利欧
+    2 skins downloaded
+    pick/ban audio downloaded
+[165] hero_id: 950, name: 百裂冥犬, title: 纳亚菲利, alias: Naafiri
+    skin_id: 950000, skin_name: 百裂冥犬
+    skin_id: 950001, skin_name: 斗魂觉醒 纳亚菲利
+    2 skins downloaded
+    pick/ban audio downloaded
+
+1757 skins for 165 heroes downloaded.
+54 files not found.
+[{'太空律动 “万能舞王” 崔斯特.jpg': 'https://game.gtimg.cn/images/lol/act/img/skin/big_86432e10-c1a7-44f4-a020-3248f6ee0bd8.jpg'}, {'太空律动 “律动队长” 提莫.jpg': 'https://game.gtimg.cn/images/lol/act/img/skin/big_8656a40e-8d7b-4373-871a-f286ea13fc18.jpg'}, {'太空律动 “爱乐之子” 塔里克.jpg': 'https://game.gtimg.cn/images/lol/act/img/skin/big_1b76385f-78cb-4173-acc3-7eafc17104a6.jpg'}, {'太空律动 “电音酒桶” 古拉加斯.jpg': 'https://game.gtimg.cn/images/lol/act/img/skin/big_40a2b936-e220-4033-b074-3336c8311bad.jpg'}, {'灰烬骑士 莫德凯撒.jpg': 'https://game.gtimg.cn/images/lol/act/img/skin/big_745c2445-c6da-4335-aefd-16cc5e792058.jpg'}, {'太空律动 “噪音女王” 丽桑卓.jpg': 'https://game.gtimg.cn/images/lol/act/img/skin/big_f41ce1df-204c-4475-8e03-f5dbaf96a51e.jpg'}, {'pick_147.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/147.ogg'}, {'ban_147.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/147.ogg'}, {'pick_166.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/166.ogg'}, {'ban_166.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/166.ogg'}, {'pick_200.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/200.ogg'}, {'ban_200.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/200.ogg'}, {'pick_221.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/221.ogg'}, {'ban_221.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/221.ogg'}, {'pick_233.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/233.ogg'}, {'ban_233.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/233.ogg'}, {'pick_234.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/234.ogg'}, {'ban_234.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/234.ogg'}, {'pick_235.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/235.ogg'}, {'ban_235.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/235.ogg'}, {'pick_246.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/246.ogg'}, {'ban_246.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/246.ogg'}, {'太空律动 “魔音海妖” 娜美.jpg': 'https://game.gtimg.cn/images/lol/act/img/skin/big_99693b43-9dda-4444-9fce-700b8cc77610.jpg'}, {'至臻 太空律动 “魔音海妖” 娜美.jpg': 'https://game.gtimg.cn/images/lol/act/img/skin/big_712ca23a-43ad-4e64-8462-4ce49e690d20.jpg'}, {'pick_350.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/350.ogg'}, {'ban_350.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/350.ogg'}, {'pick_360.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/360.ogg'}, {'ban_360.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/360.ogg'}, {'冠军之矛 卡莉丝塔.jpg': 'https://game.gtimg.cn/images/lol/act/img/skin/big_a6f6f860-cdf6-4dfe-9106-7430412505b5.jpg'}, {'太空律动 “创乐之神” 奥恩.jpg': 'https://game.gtimg.cn/images/lol/act/img/skin/big_d9fd84c2-1571-4bef-ad9b-94acae241118.jpg'}, {'pick_523.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/523.ogg'}, {'ban_523.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/523.ogg'}, {'pick_526.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/526.ogg'}, {'ban_526.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/526.ogg'}, {'pick_711.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/711.ogg'}, {'ban_711.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/711.ogg'}, {'pick_777.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/777.ogg'}, {'ban_777.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/777.ogg'}, {'pick_875.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/875.ogg'}, {'ban_875.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/875.ogg'}, {'pick_876.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/876.ogg'}, {'ban_876.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/876.ogg'}, {'pick_887.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/887.ogg'}, {'ban_887.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/887.ogg'}, {'pick_888.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/888.ogg'}, {'ban_888.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/888.ogg'}, {'pick_895.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/895.ogg'}, {'ban_895.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/895.ogg'}, {'pick_897.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/897.ogg'}, {'ban_897.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/897.ogg'}, {'pick_902.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/902.ogg'}, {'ban_902.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/902.ogg'}, {'pick_950.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/choose/950.ogg'}, {'ban_950.ogg': 'https://game.gtimg.cn/images/lol/act/img/vo/ban/950.ogg'}]
